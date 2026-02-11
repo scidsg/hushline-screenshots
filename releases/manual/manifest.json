@@ -1,0 +1,1124 @@
+{
+  "release": "manual",
+  "baseUrl": "http://localhost:8080",
+  "capturedAt": "2026-02-11T18:35:45.325Z",
+  "viewports": [
+    {
+      "id": "desktop",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "mobile",
+      "width": 390,
+      "height": 844,
+      "isMobile": true,
+      "hasTouch": true,
+      "deviceScaleFactor": 3
+    }
+  ],
+  "sessions": {
+    "guest": {
+      "username": ""
+    },
+    "admin": {
+      "username": "admin"
+    },
+    "artvandelay": {
+      "username": "artvandelay"
+    },
+    "newman": {
+      "username": "newman"
+    }
+  },
+  "scenes": [
+    {
+      "title": "Directory - Verified (admin)",
+      "slug": "auth-admin-directory-verified",
+      "path": "/directory",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-directory-verified-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-directory-verified-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - Verified (admin)",
+      "slug": "auth-admin-directory-verified",
+      "path": "/directory",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-directory-verified-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-directory-verified-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - All (admin)",
+      "slug": "auth-admin-directory-all",
+      "path": "/directory",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-directory-all-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-directory-all-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - All (admin)",
+      "slug": "auth-admin-directory-all",
+      "path": "/directory",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-directory-all-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-directory-all-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - admin (authenticated)",
+      "slug": "auth-admin-profile",
+      "path": "/to/admin",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-profile-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-profile-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - admin (authenticated)",
+      "slug": "auth-admin-profile",
+      "path": "/to/admin",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-profile-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-profile-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Inbox - admin",
+      "slug": "auth-admin-inbox",
+      "path": "/inbox",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-inbox-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-inbox-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Inbox - admin",
+      "slug": "auth-admin-inbox",
+      "path": "/inbox",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-inbox-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-inbox-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (admin)",
+      "slug": "auth-admin-settings-profile",
+      "path": "/settings/profile",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-profile-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-profile-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (admin)",
+      "slug": "auth-admin-settings-profile",
+      "path": "/settings/profile",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-profile-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-profile-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (admin)",
+      "slug": "auth-admin-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-aliases-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-aliases-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (admin)",
+      "slug": "auth-admin-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-aliases-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-aliases-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (admin)",
+      "slug": "auth-admin-settings-auth",
+      "path": "/settings/auth",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-auth-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-auth-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (admin)",
+      "slug": "auth-admin-settings-auth",
+      "path": "/settings/auth",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-auth-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-auth-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Branding (admin)",
+      "slug": "auth-admin-settings-branding",
+      "path": "/settings/branding",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-branding-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-branding-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Branding (admin)",
+      "slug": "auth-admin-settings-branding",
+      "path": "/settings/branding",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-branding-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-branding-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (admin)",
+      "slug": "auth-admin-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-encryption-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-encryption-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (admin)",
+      "slug": "auth-admin-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-encryption-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-encryption-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (admin)",
+      "slug": "auth-admin-settings-replies",
+      "path": "/settings/replies",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-replies-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-replies-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (admin)",
+      "slug": "auth-admin-settings-replies",
+      "path": "/settings/replies",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-replies-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-replies-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (admin)",
+      "slug": "auth-admin-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-notifications-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-notifications-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (admin)",
+      "slug": "auth-admin-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-notifications-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-notifications-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - User Guidance (admin)",
+      "slug": "auth-admin-settings-guidance",
+      "path": "/settings/guidance",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-guidance-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-guidance-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - User Guidance (admin)",
+      "slug": "auth-admin-settings-guidance",
+      "path": "/settings/guidance",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-guidance-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-guidance-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Registration (admin)",
+      "slug": "auth-admin-settings-registration",
+      "path": "/settings/registration",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-registration-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-registration-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Registration (admin)",
+      "slug": "auth-admin-settings-registration",
+      "path": "/settings/registration",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-registration-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-registration-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (admin)",
+      "slug": "auth-admin-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-advanced-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-advanced-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (admin)",
+      "slug": "auth-admin-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-advanced-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-advanced-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Admin (admin)",
+      "slug": "auth-admin-settings-admin",
+      "path": "/settings/admin",
+      "session": "admin",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-admin-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-admin-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Admin (admin)",
+      "slug": "auth-admin-settings-admin",
+      "path": "/settings/admin",
+      "session": "admin",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-admin-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-admin-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - artvandelay (authenticated)",
+      "slug": "auth-artvandelay-profile",
+      "path": "/to/artvandelay",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-profile-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-profile-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - artvandelay (authenticated)",
+      "slug": "auth-artvandelay-profile",
+      "path": "/to/artvandelay",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-profile-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-profile-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Inbox - artvandelay",
+      "slug": "auth-artvandelay-inbox",
+      "path": "/inbox",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-inbox-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-inbox-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Inbox - artvandelay",
+      "slug": "auth-artvandelay-inbox",
+      "path": "/inbox",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-inbox-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-inbox-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - newman (authenticated)",
+      "slug": "auth-newman-profile",
+      "path": "/to/newman",
+      "session": "newman",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-profile-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-profile-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - newman (authenticated)",
+      "slug": "auth-newman-profile",
+      "path": "/to/newman",
+      "session": "newman",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-profile-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-profile-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Inbox - newman",
+      "slug": "auth-newman-inbox",
+      "path": "/inbox",
+      "session": "newman",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-inbox-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-inbox-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Inbox - newman",
+      "slug": "auth-newman-inbox",
+      "path": "/inbox",
+      "session": "newman",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-inbox-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-inbox-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - Verified",
+      "slug": "guest-directory-verified",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-verified-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-verified-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - Verified",
+      "slug": "guest-directory-verified",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-verified-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-verified-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - All",
+      "slug": "guest-directory-all",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-all-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-all-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - All",
+      "slug": "guest-directory-all",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-all-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-all-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - admin",
+      "slug": "guest-profile-admin",
+      "path": "/to/admin",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-admin-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-profile-admin-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - admin",
+      "slug": "guest-profile-admin",
+      "path": "/to/admin",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-admin-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-profile-admin-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - artvandelay",
+      "slug": "guest-profile-artvandelay",
+      "path": "/to/artvandelay",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-artvandelay-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-profile-artvandelay-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - artvandelay",
+      "slug": "guest-profile-artvandelay",
+      "path": "/to/artvandelay",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-artvandelay-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-profile-artvandelay-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - newman",
+      "slug": "guest-profile-newman",
+      "path": "/to/newman",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-newman-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-profile-newman-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - newman",
+      "slug": "guest-profile-newman",
+      "path": "/to/newman",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-newman-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-profile-newman-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Login",
+      "slug": "guest-login",
+      "path": "/login",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-login-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-login-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Login",
+      "slug": "guest-login",
+      "path": "/login",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-login-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-login-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Register",
+      "slug": "guest-register",
+      "path": "/register",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-register-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-register-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Register",
+      "slug": "guest-register",
+      "path": "/register",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-register-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-register-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "2FA Page",
+      "slug": "guest-2fa-page",
+      "path": "/verify-2fa-login",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-2fa-page-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-2fa-page-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "2FA Page",
+      "slug": "guest-2fa-page",
+      "path": "/verify-2fa-login",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-2fa-page-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-2fa-page-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Message Submitted",
+      "slug": "guest-message-submitted",
+      "path": "/to/artvandelay",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-message-submitted-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-message-submitted-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Message Submitted",
+      "slug": "guest-message-submitted",
+      "path": "/to/artvandelay",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-message-submitted-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-message-submitted-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Message Status",
+      "slug": "guest-message-status",
+      "path": "/reply/sample-reply-artvandelay",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-message-status-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-message-status-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Message Status",
+      "slug": "guest-message-status",
+      "path": "/reply/sample-reply-artvandelay",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-message-status-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-message-status-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - Verified search 'art'",
+      "slug": "guest-directory-verified-search-art",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-verified-search-art-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-verified-search-art-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - Verified search 'art'",
+      "slug": "guest-directory-verified-search-art",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-verified-search-art-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-verified-search-art-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - All search 'art'",
+      "slug": "guest-directory-all-search-art",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-all-search-art-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-all-search-art-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - All search 'art'",
+      "slug": "guest-directory-all-search-art",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-all-search-art-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-all-search-art-mobile-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory (JS disabled)",
+      "slug": "guest-directory-js-disabled",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "desktop",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-js-disabled-desktop-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-js-disabled-desktop-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory (JS disabled)",
+      "slug": "guest-directory-js-disabled",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "mobile",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-js-disabled-mobile-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "guest/guest-directory-js-disabled-mobile-full.png"
+        }
+      ]
+    }
+  ]
+}
