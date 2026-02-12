@@ -1,7 +1,7 @@
 {
   "release": "v0.5.54",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-12T04:36:08.233Z",
+  "capturedAt": "2026-02-12T07:41:42.459Z",
   "viewports": [
     {
       "id": "desktop",
@@ -133,6 +133,10 @@
           "file": "admin/auth-admin-directory-verified-mobile-light-window-05.png"
         },
         {
+          "mode": "window-06",
+          "file": "admin/auth-admin-directory-verified-mobile-light-window-06.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-directory-verified-mobile-light-full.png"
         }
@@ -165,6 +169,10 @@
         {
           "mode": "window-05",
           "file": "admin/auth-admin-directory-verified-mobile-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "admin/auth-admin-directory-verified-mobile-dark-window-06.png"
         },
         {
           "mode": "full",
@@ -4881,6 +4889,10 @@
           "file": "guest/guest-directory-js-disabled-desktop-light-window-15.png"
         },
         {
+          "mode": "window-16",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-16.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-js-disabled-desktop-light-full.png"
         }
@@ -4953,6 +4965,10 @@
         {
           "mode": "window-15",
           "file": "guest/guest-directory-js-disabled-desktop-dark-window-15.png"
+        },
+        {
+          "mode": "window-16",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-16.png"
         },
         {
           "mode": "full",

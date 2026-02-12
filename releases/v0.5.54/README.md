@@ -1,6 +1,6 @@
 # Screenshot Set: v0.5.54
 
-Captured: 2026-02-12T04:36:08.233Z
+Captured: 2026-02-12T07:41:42.459Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,12 +21,14 @@ Captured: 2026-02-12T04:36:08.233Z
 | Directory - Verified (admin) | `/directory` | admin | mobile | light | window-03 | ![auth-admin-directory-verified-mobile-light-window-03](./admin/auth-admin-directory-verified-mobile-light-window-03.png) |
 | Directory - Verified (admin) | `/directory` | admin | mobile | light | window-04 | ![auth-admin-directory-verified-mobile-light-window-04](./admin/auth-admin-directory-verified-mobile-light-window-04.png) |
 | Directory - Verified (admin) | `/directory` | admin | mobile | light | window-05 | ![auth-admin-directory-verified-mobile-light-window-05](./admin/auth-admin-directory-verified-mobile-light-window-05.png) |
+| Directory - Verified (admin) | `/directory` | admin | mobile | light | window-06 | ![auth-admin-directory-verified-mobile-light-window-06](./admin/auth-admin-directory-verified-mobile-light-window-06.png) |
 | Directory - Verified (admin) | `/directory` | admin | mobile | light | full | ![auth-admin-directory-verified-mobile-light-full](./admin/auth-admin-directory-verified-mobile-light-full.png) |
 | Directory - Verified (admin) | `/directory` | admin | mobile | dark | fold | ![auth-admin-directory-verified-mobile-dark-fold](./admin/auth-admin-directory-verified-mobile-dark-fold.png) |
 | Directory - Verified (admin) | `/directory` | admin | mobile | dark | window-02 | ![auth-admin-directory-verified-mobile-dark-window-02](./admin/auth-admin-directory-verified-mobile-dark-window-02.png) |
 | Directory - Verified (admin) | `/directory` | admin | mobile | dark | window-03 | ![auth-admin-directory-verified-mobile-dark-window-03](./admin/auth-admin-directory-verified-mobile-dark-window-03.png) |
 | Directory - Verified (admin) | `/directory` | admin | mobile | dark | window-04 | ![auth-admin-directory-verified-mobile-dark-window-04](./admin/auth-admin-directory-verified-mobile-dark-window-04.png) |
 | Directory - Verified (admin) | `/directory` | admin | mobile | dark | window-05 | ![auth-admin-directory-verified-mobile-dark-window-05](./admin/auth-admin-directory-verified-mobile-dark-window-05.png) |
+| Directory - Verified (admin) | `/directory` | admin | mobile | dark | window-06 | ![auth-admin-directory-verified-mobile-dark-window-06](./admin/auth-admin-directory-verified-mobile-dark-window-06.png) |
 | Directory - Verified (admin) | `/directory` | admin | mobile | dark | full | ![auth-admin-directory-verified-mobile-dark-full](./admin/auth-admin-directory-verified-mobile-dark-full.png) |
 | Directory - All (admin) | `/directory` | admin | desktop | light | fold | ![auth-admin-directory-all-desktop-light-fold](./admin/auth-admin-directory-all-desktop-light-fold.png) |
 | Directory - All (admin) | `/directory` | admin | desktop | light | window-02 | ![auth-admin-directory-all-desktop-light-window-02](./admin/auth-admin-directory-all-desktop-light-window-02.png) |
@@ -723,6 +725,7 @@ Captured: 2026-02-12T04:36:08.233Z
 | Directory (JS disabled) | `/directory` | guest | desktop | light | window-13 | ![guest-directory-js-disabled-desktop-light-window-13](./guest/guest-directory-js-disabled-desktop-light-window-13.png) |
 | Directory (JS disabled) | `/directory` | guest | desktop | light | window-14 | ![guest-directory-js-disabled-desktop-light-window-14](./guest/guest-directory-js-disabled-desktop-light-window-14.png) |
 | Directory (JS disabled) | `/directory` | guest | desktop | light | window-15 | ![guest-directory-js-disabled-desktop-light-window-15](./guest/guest-directory-js-disabled-desktop-light-window-15.png) |
+| Directory (JS disabled) | `/directory` | guest | desktop | light | window-16 | ![guest-directory-js-disabled-desktop-light-window-16](./guest/guest-directory-js-disabled-desktop-light-window-16.png) |
 | Directory (JS disabled) | `/directory` | guest | desktop | light | full | ![guest-directory-js-disabled-desktop-light-full](./guest/guest-directory-js-disabled-desktop-light-full.png) |
 | Directory (JS disabled) | `/directory` | guest | desktop | dark | fold | ![guest-directory-js-disabled-desktop-dark-fold](./guest/guest-directory-js-disabled-desktop-dark-fold.png) |
 | Directory (JS disabled) | `/directory` | guest | desktop | dark | window-02 | ![guest-directory-js-disabled-desktop-dark-window-02](./guest/guest-directory-js-disabled-desktop-dark-window-02.png) |
@@ -739,6 +742,7 @@ Captured: 2026-02-12T04:36:08.233Z
 | Directory (JS disabled) | `/directory` | guest | desktop | dark | window-13 | ![guest-directory-js-disabled-desktop-dark-window-13](./guest/guest-directory-js-disabled-desktop-dark-window-13.png) |
 | Directory (JS disabled) | `/directory` | guest | desktop | dark | window-14 | ![guest-directory-js-disabled-desktop-dark-window-14](./guest/guest-directory-js-disabled-desktop-dark-window-14.png) |
 | Directory (JS disabled) | `/directory` | guest | desktop | dark | window-15 | ![guest-directory-js-disabled-desktop-dark-window-15](./guest/guest-directory-js-disabled-desktop-dark-window-15.png) |
+| Directory (JS disabled) | `/directory` | guest | desktop | dark | window-16 | ![guest-directory-js-disabled-desktop-dark-window-16](./guest/guest-directory-js-disabled-desktop-dark-window-16.png) |
 | Directory (JS disabled) | `/directory` | guest | desktop | dark | full | ![guest-directory-js-disabled-desktop-dark-full](./guest/guest-directory-js-disabled-desktop-dark-full.png) |
 | Directory (JS disabled) | `/directory` | guest | mobile | light | fold | ![guest-directory-js-disabled-mobile-light-fold](./guest/guest-directory-js-disabled-mobile-light-fold.png) |
 | Directory (JS disabled) | `/directory` | guest | mobile | light | window-02 | ![guest-directory-js-disabled-mobile-light-window-02](./guest/guest-directory-js-disabled-mobile-light-window-02.png) |
