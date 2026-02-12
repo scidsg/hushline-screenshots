@@ -1,7 +1,7 @@
 {
   "release": "v0.5.54",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-12T02:50:56.774Z",
+  "capturedAt": "2026-02-12T03:45:12.309Z",
   "viewports": [
     {
       "id": "desktop",
@@ -1905,6 +1905,294 @@
         {
           "mode": "full",
           "file": "newman/auth-newman-inbox-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 1 Profile (newman)",
+      "slug": "auth-newman-onboarding-profile",
+      "path": "/onboarding?step=profile",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-profile-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-profile-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 1 Profile (newman)",
+      "slug": "auth-newman-onboarding-profile",
+      "path": "/onboarding?step=profile",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-profile-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 1 Profile (newman)",
+      "slug": "auth-newman-onboarding-profile",
+      "path": "/onboarding?step=profile",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-profile-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-profile-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 1 Profile (newman)",
+      "slug": "auth-newman-onboarding-profile",
+      "path": "/onboarding?step=profile",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-profile-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 2 Encryption (newman)",
+      "slug": "auth-newman-onboarding-encryption",
+      "path": "/onboarding?step=encryption",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-encryption-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-encryption-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 2 Encryption (newman)",
+      "slug": "auth-newman-onboarding-encryption",
+      "path": "/onboarding?step=encryption",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-encryption-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-encryption-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 2 Encryption (newman)",
+      "slug": "auth-newman-onboarding-encryption",
+      "path": "/onboarding?step=encryption",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-encryption-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-encryption-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 2 Encryption (newman)",
+      "slug": "auth-newman-onboarding-encryption",
+      "path": "/onboarding?step=encryption",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-encryption-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-encryption-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 3 Notifications (newman)",
+      "slug": "auth-newman-onboarding-notifications",
+      "path": "/onboarding?step=notifications",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-notifications-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-notifications-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 3 Notifications (newman)",
+      "slug": "auth-newman-onboarding-notifications",
+      "path": "/onboarding?step=notifications",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-notifications-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-notifications-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 3 Notifications (newman)",
+      "slug": "auth-newman-onboarding-notifications",
+      "path": "/onboarding?step=notifications",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-notifications-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-notifications-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 3 Notifications (newman)",
+      "slug": "auth-newman-onboarding-notifications",
+      "path": "/onboarding?step=notifications",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-notifications-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-notifications-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 4 Directory (newman)",
+      "slug": "auth-newman-onboarding-directory",
+      "path": "/onboarding?step=directory",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-directory-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-directory-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 4 Directory (newman)",
+      "slug": "auth-newman-onboarding-directory",
+      "path": "/onboarding?step=directory",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-directory-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-directory-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 4 Directory (newman)",
+      "slug": "auth-newman-onboarding-directory",
+      "path": "/onboarding?step=directory",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-directory-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-directory-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 4 Directory (newman)",
+      "slug": "auth-newman-onboarding-directory",
+      "path": "/onboarding?step=directory",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-directory-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-onboarding-directory-mobile-dark-full.png"
         }
       ]
     },

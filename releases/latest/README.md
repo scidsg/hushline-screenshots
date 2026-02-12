@@ -1,6 +1,6 @@
 # Screenshot Set: v0.5.54
 
-Captured: 2026-02-12T02:50:56.774Z
+Captured: 2026-02-12T03:45:12.309Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -212,6 +212,38 @@ Captured: 2026-02-12T02:50:56.774Z
 | Inbox - newman | `/inbox` | newman | mobile | light | full | ![auth-newman-inbox-mobile-light-full](./newman/auth-newman-inbox-mobile-light-full.png) |
 | Inbox - newman | `/inbox` | newman | mobile | dark | fold | ![auth-newman-inbox-mobile-dark-fold](./newman/auth-newman-inbox-mobile-dark-fold.png) |
 | Inbox - newman | `/inbox` | newman | mobile | dark | full | ![auth-newman-inbox-mobile-dark-full](./newman/auth-newman-inbox-mobile-dark-full.png) |
+| Onboarding - Step 1 Profile (newman) | `/onboarding?step=profile` | newman | desktop | light | fold | ![auth-newman-onboarding-profile-desktop-light-fold](./newman/auth-newman-onboarding-profile-desktop-light-fold.png) |
+| Onboarding - Step 1 Profile (newman) | `/onboarding?step=profile` | newman | desktop | light | full | ![auth-newman-onboarding-profile-desktop-light-full](./newman/auth-newman-onboarding-profile-desktop-light-full.png) |
+| Onboarding - Step 1 Profile (newman) | `/onboarding?step=profile` | newman | desktop | dark | fold | ![auth-newman-onboarding-profile-desktop-dark-fold](./newman/auth-newman-onboarding-profile-desktop-dark-fold.png) |
+| Onboarding - Step 1 Profile (newman) | `/onboarding?step=profile` | newman | desktop | dark | full | ![auth-newman-onboarding-profile-desktop-dark-full](./newman/auth-newman-onboarding-profile-desktop-dark-full.png) |
+| Onboarding - Step 1 Profile (newman) | `/onboarding?step=profile` | newman | mobile | light | fold | ![auth-newman-onboarding-profile-mobile-light-fold](./newman/auth-newman-onboarding-profile-mobile-light-fold.png) |
+| Onboarding - Step 1 Profile (newman) | `/onboarding?step=profile` | newman | mobile | light | full | ![auth-newman-onboarding-profile-mobile-light-full](./newman/auth-newman-onboarding-profile-mobile-light-full.png) |
+| Onboarding - Step 1 Profile (newman) | `/onboarding?step=profile` | newman | mobile | dark | fold | ![auth-newman-onboarding-profile-mobile-dark-fold](./newman/auth-newman-onboarding-profile-mobile-dark-fold.png) |
+| Onboarding - Step 1 Profile (newman) | `/onboarding?step=profile` | newman | mobile | dark | full | ![auth-newman-onboarding-profile-mobile-dark-full](./newman/auth-newman-onboarding-profile-mobile-dark-full.png) |
+| Onboarding - Step 2 Encryption (newman) | `/onboarding?step=encryption` | newman | desktop | light | fold | ![auth-newman-onboarding-encryption-desktop-light-fold](./newman/auth-newman-onboarding-encryption-desktop-light-fold.png) |
+| Onboarding - Step 2 Encryption (newman) | `/onboarding?step=encryption` | newman | desktop | light | full | ![auth-newman-onboarding-encryption-desktop-light-full](./newman/auth-newman-onboarding-encryption-desktop-light-full.png) |
+| Onboarding - Step 2 Encryption (newman) | `/onboarding?step=encryption` | newman | desktop | dark | fold | ![auth-newman-onboarding-encryption-desktop-dark-fold](./newman/auth-newman-onboarding-encryption-desktop-dark-fold.png) |
+| Onboarding - Step 2 Encryption (newman) | `/onboarding?step=encryption` | newman | desktop | dark | full | ![auth-newman-onboarding-encryption-desktop-dark-full](./newman/auth-newman-onboarding-encryption-desktop-dark-full.png) |
+| Onboarding - Step 2 Encryption (newman) | `/onboarding?step=encryption` | newman | mobile | light | fold | ![auth-newman-onboarding-encryption-mobile-light-fold](./newman/auth-newman-onboarding-encryption-mobile-light-fold.png) |
+| Onboarding - Step 2 Encryption (newman) | `/onboarding?step=encryption` | newman | mobile | light | full | ![auth-newman-onboarding-encryption-mobile-light-full](./newman/auth-newman-onboarding-encryption-mobile-light-full.png) |
+| Onboarding - Step 2 Encryption (newman) | `/onboarding?step=encryption` | newman | mobile | dark | fold | ![auth-newman-onboarding-encryption-mobile-dark-fold](./newman/auth-newman-onboarding-encryption-mobile-dark-fold.png) |
+| Onboarding - Step 2 Encryption (newman) | `/onboarding?step=encryption` | newman | mobile | dark | full | ![auth-newman-onboarding-encryption-mobile-dark-full](./newman/auth-newman-onboarding-encryption-mobile-dark-full.png) |
+| Onboarding - Step 3 Notifications (newman) | `/onboarding?step=notifications` | newman | desktop | light | fold | ![auth-newman-onboarding-notifications-desktop-light-fold](./newman/auth-newman-onboarding-notifications-desktop-light-fold.png) |
+| Onboarding - Step 3 Notifications (newman) | `/onboarding?step=notifications` | newman | desktop | light | full | ![auth-newman-onboarding-notifications-desktop-light-full](./newman/auth-newman-onboarding-notifications-desktop-light-full.png) |
+| Onboarding - Step 3 Notifications (newman) | `/onboarding?step=notifications` | newman | desktop | dark | fold | ![auth-newman-onboarding-notifications-desktop-dark-fold](./newman/auth-newman-onboarding-notifications-desktop-dark-fold.png) |
+| Onboarding - Step 3 Notifications (newman) | `/onboarding?step=notifications` | newman | desktop | dark | full | ![auth-newman-onboarding-notifications-desktop-dark-full](./newman/auth-newman-onboarding-notifications-desktop-dark-full.png) |
+| Onboarding - Step 3 Notifications (newman) | `/onboarding?step=notifications` | newman | mobile | light | fold | ![auth-newman-onboarding-notifications-mobile-light-fold](./newman/auth-newman-onboarding-notifications-mobile-light-fold.png) |
+| Onboarding - Step 3 Notifications (newman) | `/onboarding?step=notifications` | newman | mobile | light | full | ![auth-newman-onboarding-notifications-mobile-light-full](./newman/auth-newman-onboarding-notifications-mobile-light-full.png) |
+| Onboarding - Step 3 Notifications (newman) | `/onboarding?step=notifications` | newman | mobile | dark | fold | ![auth-newman-onboarding-notifications-mobile-dark-fold](./newman/auth-newman-onboarding-notifications-mobile-dark-fold.png) |
+| Onboarding - Step 3 Notifications (newman) | `/onboarding?step=notifications` | newman | mobile | dark | full | ![auth-newman-onboarding-notifications-mobile-dark-full](./newman/auth-newman-onboarding-notifications-mobile-dark-full.png) |
+| Onboarding - Step 4 Directory (newman) | `/onboarding?step=directory` | newman | desktop | light | fold | ![auth-newman-onboarding-directory-desktop-light-fold](./newman/auth-newman-onboarding-directory-desktop-light-fold.png) |
+| Onboarding - Step 4 Directory (newman) | `/onboarding?step=directory` | newman | desktop | light | full | ![auth-newman-onboarding-directory-desktop-light-full](./newman/auth-newman-onboarding-directory-desktop-light-full.png) |
+| Onboarding - Step 4 Directory (newman) | `/onboarding?step=directory` | newman | desktop | dark | fold | ![auth-newman-onboarding-directory-desktop-dark-fold](./newman/auth-newman-onboarding-directory-desktop-dark-fold.png) |
+| Onboarding - Step 4 Directory (newman) | `/onboarding?step=directory` | newman | desktop | dark | full | ![auth-newman-onboarding-directory-desktop-dark-full](./newman/auth-newman-onboarding-directory-desktop-dark-full.png) |
+| Onboarding - Step 4 Directory (newman) | `/onboarding?step=directory` | newman | mobile | light | fold | ![auth-newman-onboarding-directory-mobile-light-fold](./newman/auth-newman-onboarding-directory-mobile-light-fold.png) |
+| Onboarding - Step 4 Directory (newman) | `/onboarding?step=directory` | newman | mobile | light | full | ![auth-newman-onboarding-directory-mobile-light-full](./newman/auth-newman-onboarding-directory-mobile-light-full.png) |
+| Onboarding - Step 4 Directory (newman) | `/onboarding?step=directory` | newman | mobile | dark | fold | ![auth-newman-onboarding-directory-mobile-dark-fold](./newman/auth-newman-onboarding-directory-mobile-dark-fold.png) |
+| Onboarding - Step 4 Directory (newman) | `/onboarding?step=directory` | newman | mobile | dark | full | ![auth-newman-onboarding-directory-mobile-dark-full](./newman/auth-newman-onboarding-directory-mobile-dark-full.png) |
 | Settings - Profile (newman) | `/settings/profile` | newman | desktop | light | fold | ![auth-newman-settings-profile-desktop-light-fold](./newman/auth-newman-settings-profile-desktop-light-fold.png) |
 | Settings - Profile (newman) | `/settings/profile` | newman | desktop | light | full | ![auth-newman-settings-profile-desktop-light-full](./newman/auth-newman-settings-profile-desktop-light-full.png) |
 | Settings - Profile (newman) | `/settings/profile` | newman | desktop | dark | fold | ![auth-newman-settings-profile-desktop-dark-fold](./newman/auth-newman-settings-profile-desktop-dark-fold.png) |
