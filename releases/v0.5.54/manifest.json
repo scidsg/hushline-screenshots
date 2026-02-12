@@ -1,7 +1,7 @@
 {
   "release": "v0.5.54",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-11T19:37:39.749Z",
+  "capturedAt": "2026-02-12T01:21:53.166Z",
   "viewports": [
     {
       "id": "desktop",
@@ -1261,6 +1261,510 @@
       ]
     },
     {
+      "title": "Settings - Profile (artvandelay)",
+      "slug": "auth-artvandelay-settings-profile",
+      "path": "/settings/profile",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (artvandelay)",
+      "slug": "auth-artvandelay-settings-profile",
+      "path": "/settings/profile",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (artvandelay)",
+      "slug": "auth-artvandelay-settings-profile",
+      "path": "/settings/profile",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-profile-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-profile-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (artvandelay)",
+      "slug": "auth-artvandelay-settings-profile",
+      "path": "/settings/profile",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-profile-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (artvandelay)",
+      "slug": "auth-artvandelay-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-aliases-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-aliases-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (artvandelay)",
+      "slug": "auth-artvandelay-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-aliases-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-aliases-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (artvandelay)",
+      "slug": "auth-artvandelay-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-aliases-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-aliases-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (artvandelay)",
+      "slug": "auth-artvandelay-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-aliases-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-aliases-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (artvandelay)",
+      "slug": "auth-artvandelay-settings-auth",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-auth-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-auth-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (artvandelay)",
+      "slug": "auth-artvandelay-settings-auth",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-auth-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-auth-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (artvandelay)",
+      "slug": "auth-artvandelay-settings-auth",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-auth-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-auth-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (artvandelay)",
+      "slug": "auth-artvandelay-settings-auth",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-auth-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-auth-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (artvandelay)",
+      "slug": "auth-artvandelay-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (artvandelay)",
+      "slug": "auth-artvandelay-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (artvandelay)",
+      "slug": "auth-artvandelay-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (artvandelay)",
+      "slug": "auth-artvandelay-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (artvandelay)",
+      "slug": "auth-artvandelay-settings-replies",
+      "path": "/settings/replies",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-replies-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-replies-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (artvandelay)",
+      "slug": "auth-artvandelay-settings-replies",
+      "path": "/settings/replies",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-replies-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-replies-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (artvandelay)",
+      "slug": "auth-artvandelay-settings-replies",
+      "path": "/settings/replies",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-replies-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-replies-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (artvandelay)",
+      "slug": "auth-artvandelay-settings-replies",
+      "path": "/settings/replies",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-replies-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-replies-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (artvandelay)",
+      "slug": "auth-artvandelay-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (artvandelay)",
+      "slug": "auth-artvandelay-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (artvandelay)",
+      "slug": "auth-artvandelay-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (artvandelay)",
+      "slug": "auth-artvandelay-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (artvandelay)",
+      "slug": "auth-artvandelay-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-advanced-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-advanced-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (artvandelay)",
+      "slug": "auth-artvandelay-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-advanced-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-advanced-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (artvandelay)",
+      "slug": "auth-artvandelay-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-advanced-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-advanced-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (artvandelay)",
+      "slug": "auth-artvandelay-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-advanced-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-settings-advanced-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
       "title": "Profile - newman (authenticated)",
       "slug": "auth-newman-profile",
       "path": "/to/newman",
@@ -1401,6 +1905,510 @@
         {
           "mode": "full",
           "file": "newman/auth-newman-inbox-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (newman)",
+      "slug": "auth-newman-settings-profile",
+      "path": "/settings/profile",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-profile-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-profile-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (newman)",
+      "slug": "auth-newman-settings-profile",
+      "path": "/settings/profile",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-profile-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (newman)",
+      "slug": "auth-newman-settings-profile",
+      "path": "/settings/profile",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-profile-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-profile-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (newman)",
+      "slug": "auth-newman-settings-profile",
+      "path": "/settings/profile",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-profile-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (newman)",
+      "slug": "auth-newman-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-aliases-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-aliases-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (newman)",
+      "slug": "auth-newman-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-aliases-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-aliases-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (newman)",
+      "slug": "auth-newman-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-aliases-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-aliases-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Aliases (newman)",
+      "slug": "auth-newman-settings-aliases",
+      "path": "/settings/aliases",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-aliases-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-aliases-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (newman)",
+      "slug": "auth-newman-settings-auth",
+      "path": "/settings/auth",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-auth-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-auth-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (newman)",
+      "slug": "auth-newman-settings-auth",
+      "path": "/settings/auth",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-auth-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-auth-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (newman)",
+      "slug": "auth-newman-settings-auth",
+      "path": "/settings/auth",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-auth-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-auth-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (newman)",
+      "slug": "auth-newman-settings-auth",
+      "path": "/settings/auth",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-auth-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-auth-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (newman)",
+      "slug": "auth-newman-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-encryption-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-encryption-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (newman)",
+      "slug": "auth-newman-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-encryption-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-encryption-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (newman)",
+      "slug": "auth-newman-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-encryption-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-encryption-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (newman)",
+      "slug": "auth-newman-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-encryption-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-encryption-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (newman)",
+      "slug": "auth-newman-settings-replies",
+      "path": "/settings/replies",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-replies-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-replies-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (newman)",
+      "slug": "auth-newman-settings-replies",
+      "path": "/settings/replies",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-replies-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-replies-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (newman)",
+      "slug": "auth-newman-settings-replies",
+      "path": "/settings/replies",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-replies-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-replies-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (newman)",
+      "slug": "auth-newman-settings-replies",
+      "path": "/settings/replies",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-replies-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-replies-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (newman)",
+      "slug": "auth-newman-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-notifications-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-notifications-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (newman)",
+      "slug": "auth-newman-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-notifications-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-notifications-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (newman)",
+      "slug": "auth-newman-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-notifications-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-notifications-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (newman)",
+      "slug": "auth-newman-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-notifications-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-notifications-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (newman)",
+      "slug": "auth-newman-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-advanced-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-advanced-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (newman)",
+      "slug": "auth-newman-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-advanced-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-advanced-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (newman)",
+      "slug": "auth-newman-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-advanced-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-advanced-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (newman)",
+      "slug": "auth-newman-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-advanced-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "newman/auth-newman-settings-advanced-mobile-dark-full.png"
         }
       ]
     },
