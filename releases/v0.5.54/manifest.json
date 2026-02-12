@@ -1,7 +1,7 @@
 {
   "release": "v0.5.54",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-12T03:51:05.569Z",
+  "capturedAt": "2026-02-12T04:36:08.233Z",
   "viewports": [
     {
       "id": "desktop",
@@ -49,6 +49,22 @@
           "file": "admin/auth-admin-directory-verified-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-directory-verified-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-directory-verified-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-directory-verified-desktop-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-directory-verified-desktop-light-window-05.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-directory-verified-desktop-light-full.png"
         }
@@ -65,6 +81,22 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-directory-verified-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-directory-verified-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-directory-verified-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-directory-verified-desktop-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-directory-verified-desktop-dark-window-05.png"
         },
         {
           "mode": "full",
@@ -85,6 +117,22 @@
           "file": "admin/auth-admin-directory-verified-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-directory-verified-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-directory-verified-mobile-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-directory-verified-mobile-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-directory-verified-mobile-light-window-05.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-directory-verified-mobile-light-full.png"
         }
@@ -101,6 +149,22 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-directory-verified-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-directory-verified-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-directory-verified-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-directory-verified-mobile-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-directory-verified-mobile-dark-window-05.png"
         },
         {
           "mode": "full",
@@ -121,6 +185,46 @@
           "file": "admin/auth-admin-directory-all-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "admin/auth-admin-directory-all-desktop-light-window-11.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-directory-all-desktop-light-full.png"
         }
@@ -137,6 +241,46 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-directory-all-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "admin/auth-admin-directory-all-desktop-dark-window-11.png"
         },
         {
           "mode": "full",
@@ -157,6 +301,50 @@
           "file": "admin/auth-admin-directory-all-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "admin/auth-admin-directory-all-mobile-light-window-12.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-directory-all-mobile-light-full.png"
         }
@@ -173,6 +361,50 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-directory-all-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "admin/auth-admin-directory-all-mobile-dark-window-12.png"
         },
         {
           "mode": "full",
@@ -193,6 +425,10 @@
           "file": "admin/auth-admin-profile-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-profile-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-profile-desktop-light-full.png"
         }
@@ -209,6 +445,10 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-profile-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -229,6 +469,10 @@
           "file": "admin/auth-admin-profile-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-profile-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-profile-mobile-light-full.png"
         }
@@ -245,6 +489,10 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-profile-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -265,6 +513,18 @@
           "file": "admin/auth-admin-inbox-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-inbox-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-inbox-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-inbox-desktop-light-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-inbox-desktop-light-full.png"
         }
@@ -281,6 +541,18 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-inbox-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-inbox-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-inbox-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-inbox-desktop-dark-window-04.png"
         },
         {
           "mode": "full",
@@ -301,6 +573,18 @@
           "file": "admin/auth-admin-inbox-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-inbox-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-inbox-mobile-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-inbox-mobile-light-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-inbox-mobile-light-full.png"
         }
@@ -317,6 +601,18 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-inbox-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-inbox-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-inbox-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-inbox-mobile-dark-window-04.png"
         },
         {
           "mode": "full",
@@ -337,6 +633,14 @@
           "file": "admin/auth-admin-settings-profile-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-profile-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-profile-desktop-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-profile-desktop-light-full.png"
         }
@@ -353,6 +657,14 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-profile-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-profile-desktop-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -373,6 +685,14 @@
           "file": "admin/auth-admin-settings-profile-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-profile-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-profile-mobile-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-profile-mobile-light-full.png"
         }
@@ -389,6 +709,14 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-profile-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-profile-mobile-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -481,6 +809,10 @@
           "file": "admin/auth-admin-settings-auth-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-auth-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-auth-desktop-light-full.png"
         }
@@ -497,6 +829,10 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-auth-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-auth-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -517,6 +853,10 @@
           "file": "admin/auth-admin-settings-auth-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-auth-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-auth-mobile-light-full.png"
         }
@@ -533,6 +873,10 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-auth-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-auth-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -553,6 +897,14 @@
           "file": "admin/auth-admin-settings-branding-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-branding-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-branding-desktop-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-branding-desktop-light-full.png"
         }
@@ -569,6 +921,14 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-branding-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-branding-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-branding-desktop-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -589,6 +949,14 @@
           "file": "admin/auth-admin-settings-branding-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-branding-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-branding-mobile-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-branding-mobile-light-full.png"
         }
@@ -605,6 +973,14 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-branding-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-branding-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-branding-mobile-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -625,6 +1001,10 @@
           "file": "admin/auth-admin-settings-encryption-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-encryption-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-encryption-desktop-light-full.png"
         }
@@ -641,6 +1021,10 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-encryption-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-encryption-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -661,6 +1045,10 @@
           "file": "admin/auth-admin-settings-encryption-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-encryption-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-encryption-mobile-light-full.png"
         }
@@ -677,6 +1065,10 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-encryption-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-encryption-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -697,6 +1089,14 @@
           "file": "admin/auth-admin-settings-replies-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-replies-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-replies-desktop-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-replies-desktop-light-full.png"
         }
@@ -713,6 +1113,14 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-replies-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-replies-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-replies-desktop-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -733,6 +1141,14 @@
           "file": "admin/auth-admin-settings-replies-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-replies-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-replies-mobile-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-replies-mobile-light-full.png"
         }
@@ -749,6 +1165,14 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-replies-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-replies-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-replies-mobile-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -805,6 +1229,10 @@
           "file": "admin/auth-admin-settings-notifications-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-notifications-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-notifications-mobile-light-full.png"
         }
@@ -821,6 +1249,10 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-notifications-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-notifications-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -841,6 +1273,18 @@
           "file": "admin/auth-admin-settings-guidance-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-guidance-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-guidance-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-settings-guidance-desktop-light-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-guidance-desktop-light-full.png"
         }
@@ -857,6 +1301,18 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-guidance-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-guidance-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-guidance-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-settings-guidance-desktop-dark-window-04.png"
         },
         {
           "mode": "full",
@@ -877,6 +1333,18 @@
           "file": "admin/auth-admin-settings-guidance-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-guidance-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-guidance-mobile-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-settings-guidance-mobile-light-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-guidance-mobile-light-full.png"
         }
@@ -893,6 +1361,18 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-guidance-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-guidance-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-guidance-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-settings-guidance-mobile-dark-window-04.png"
         },
         {
           "mode": "full",
@@ -1057,6 +1537,50 @@
           "file": "admin/auth-admin-settings-admin-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "admin/auth-admin-settings-admin-desktop-light-window-12.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-admin-desktop-light-full.png"
         }
@@ -1073,6 +1597,50 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-admin-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "admin/auth-admin-settings-admin-desktop-dark-window-12.png"
         },
         {
           "mode": "full",
@@ -1093,6 +1661,50 @@
           "file": "admin/auth-admin-settings-admin-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-12.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-settings-admin-mobile-light-full.png"
         }
@@ -1109,6 +1721,50 @@
         {
           "mode": "fold",
           "file": "admin/auth-admin-settings-admin-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-12.png"
         },
         {
           "mode": "full",
@@ -1129,6 +1785,10 @@
           "file": "artvandelay/auth-artvandelay-profile-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-profile-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-profile-desktop-light-full.png"
         }
@@ -1145,6 +1805,10 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-profile-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1165,6 +1829,10 @@
           "file": "artvandelay/auth-artvandelay-profile-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-profile-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-profile-mobile-light-full.png"
         }
@@ -1181,6 +1849,10 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-profile-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1273,6 +1945,14 @@
           "file": "artvandelay/auth-artvandelay-settings-profile-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-profile-desktop-light-full.png"
         }
@@ -1289,6 +1969,14 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -1309,6 +1997,14 @@
           "file": "artvandelay/auth-artvandelay-settings-profile-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-profile-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-settings-profile-mobile-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-profile-mobile-light-full.png"
         }
@@ -1325,6 +2021,14 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-profile-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-settings-profile-mobile-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -1417,6 +2121,10 @@
           "file": "artvandelay/auth-artvandelay-settings-auth-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-auth-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-auth-desktop-light-full.png"
         }
@@ -1433,6 +2141,10 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-auth-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-auth-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1453,6 +2165,10 @@
           "file": "artvandelay/auth-artvandelay-settings-auth-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-auth-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-auth-mobile-light-full.png"
         }
@@ -1469,6 +2185,10 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-auth-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-auth-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1489,6 +2209,10 @@
           "file": "artvandelay/auth-artvandelay-settings-encryption-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-encryption-desktop-light-full.png"
         }
@@ -1505,6 +2229,10 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-encryption-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1525,6 +2253,10 @@
           "file": "artvandelay/auth-artvandelay-settings-encryption-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-encryption-mobile-light-full.png"
         }
@@ -1541,6 +2273,10 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-encryption-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-encryption-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1561,6 +2297,14 @@
           "file": "artvandelay/auth-artvandelay-settings-replies-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-replies-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-settings-replies-desktop-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-replies-desktop-light-full.png"
         }
@@ -1577,6 +2321,14 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-replies-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-replies-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-settings-replies-desktop-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -1597,6 +2349,14 @@
           "file": "artvandelay/auth-artvandelay-settings-replies-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-replies-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-settings-replies-mobile-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-replies-mobile-light-full.png"
         }
@@ -1613,6 +2373,14 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-replies-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-replies-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-settings-replies-mobile-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -1669,6 +2437,10 @@
           "file": "artvandelay/auth-artvandelay-settings-notifications-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-notifications-mobile-light-full.png"
         }
@@ -1685,6 +2457,10 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-notifications-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1777,6 +2553,10 @@
           "file": "newman/auth-newman-profile-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-profile-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-profile-desktop-light-full.png"
         }
@@ -1793,6 +2573,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-profile-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1813,6 +2597,10 @@
           "file": "newman/auth-newman-profile-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-profile-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-profile-mobile-light-full.png"
         }
@@ -1829,6 +2617,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-profile-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1921,6 +2713,10 @@
           "file": "newman/auth-newman-onboarding-profile-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-onboarding-profile-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-onboarding-profile-desktop-light-full.png"
         }
@@ -1937,6 +2733,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-onboarding-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-onboarding-profile-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1957,6 +2757,10 @@
           "file": "newman/auth-newman-onboarding-profile-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-onboarding-profile-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-onboarding-profile-mobile-light-full.png"
         }
@@ -1973,6 +2777,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-onboarding-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-onboarding-profile-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -1993,6 +2801,10 @@
           "file": "newman/auth-newman-onboarding-encryption-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-onboarding-encryption-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-onboarding-encryption-desktop-light-full.png"
         }
@@ -2009,6 +2821,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-onboarding-encryption-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-onboarding-encryption-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -2029,6 +2845,10 @@
           "file": "newman/auth-newman-onboarding-encryption-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-onboarding-encryption-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-onboarding-encryption-mobile-light-full.png"
         }
@@ -2045,6 +2865,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-onboarding-encryption-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-onboarding-encryption-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -2209,6 +3033,14 @@
           "file": "newman/auth-newman-settings-profile-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-profile-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "newman/auth-newman-settings-profile-desktop-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-settings-profile-desktop-light-full.png"
         }
@@ -2225,6 +3057,14 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-settings-profile-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-profile-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "newman/auth-newman-settings-profile-desktop-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -2245,6 +3085,14 @@
           "file": "newman/auth-newman-settings-profile-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-profile-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "newman/auth-newman-settings-profile-mobile-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-settings-profile-mobile-light-full.png"
         }
@@ -2261,6 +3109,14 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-settings-profile-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-profile-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "newman/auth-newman-settings-profile-mobile-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -2353,6 +3209,10 @@
           "file": "newman/auth-newman-settings-auth-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-auth-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-settings-auth-desktop-light-full.png"
         }
@@ -2369,6 +3229,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-settings-auth-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-auth-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -2389,6 +3253,10 @@
           "file": "newman/auth-newman-settings-auth-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-auth-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-settings-auth-mobile-light-full.png"
         }
@@ -2405,6 +3273,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-settings-auth-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-auth-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -2425,6 +3297,10 @@
           "file": "newman/auth-newman-settings-encryption-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-encryption-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-settings-encryption-desktop-light-full.png"
         }
@@ -2441,6 +3317,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-settings-encryption-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-encryption-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -2461,6 +3341,10 @@
           "file": "newman/auth-newman-settings-encryption-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-encryption-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-settings-encryption-mobile-light-full.png"
         }
@@ -2477,6 +3361,10 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-settings-encryption-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-encryption-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -2497,6 +3385,14 @@
           "file": "newman/auth-newman-settings-replies-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-replies-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "newman/auth-newman-settings-replies-desktop-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-settings-replies-desktop-light-full.png"
         }
@@ -2513,6 +3409,14 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-settings-replies-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-replies-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "newman/auth-newman-settings-replies-desktop-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -2533,6 +3437,14 @@
           "file": "newman/auth-newman-settings-replies-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-replies-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "newman/auth-newman-settings-replies-mobile-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "newman/auth-newman-settings-replies-mobile-light-full.png"
         }
@@ -2549,6 +3461,14 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-settings-replies-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "newman/auth-newman-settings-replies-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "newman/auth-newman-settings-replies-mobile-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -2713,6 +3633,22 @@
           "file": "guest/guest-directory-verified-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-verified-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-verified-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-verified-desktop-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-verified-desktop-light-window-05.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-verified-desktop-light-full.png"
         }
@@ -2729,6 +3665,22 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-verified-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-verified-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-verified-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-verified-desktop-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-verified-desktop-dark-window-05.png"
         },
         {
           "mode": "full",
@@ -2749,6 +3701,26 @@
           "file": "guest/guest-directory-verified-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-verified-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-verified-mobile-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-verified-mobile-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-verified-mobile-light-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-verified-mobile-light-window-06.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-verified-mobile-light-full.png"
         }
@@ -2765,6 +3737,26 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-verified-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-verified-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-verified-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-verified-mobile-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-verified-mobile-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-verified-mobile-dark-window-06.png"
         },
         {
           "mode": "full",
@@ -2785,6 +3777,46 @@
           "file": "guest/guest-directory-all-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-all-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-all-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-all-desktop-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-all-desktop-light-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-all-desktop-light-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "guest/guest-directory-all-desktop-light-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "guest/guest-directory-all-desktop-light-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "guest/guest-directory-all-desktop-light-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "guest/guest-directory-all-desktop-light-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "guest/guest-directory-all-desktop-light-window-11.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-all-desktop-light-full.png"
         }
@@ -2801,6 +3833,46 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-all-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-all-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-all-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-all-desktop-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-all-desktop-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-all-desktop-dark-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "guest/guest-directory-all-desktop-dark-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "guest/guest-directory-all-desktop-dark-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "guest/guest-directory-all-desktop-dark-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "guest/guest-directory-all-desktop-dark-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "guest/guest-directory-all-desktop-dark-window-11.png"
         },
         {
           "mode": "full",
@@ -2821,6 +3893,50 @@
           "file": "guest/guest-directory-all-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-all-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-all-mobile-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-all-mobile-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-all-mobile-light-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-all-mobile-light-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "guest/guest-directory-all-mobile-light-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "guest/guest-directory-all-mobile-light-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "guest/guest-directory-all-mobile-light-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "guest/guest-directory-all-mobile-light-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "guest/guest-directory-all-mobile-light-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "guest/guest-directory-all-mobile-light-window-12.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-all-mobile-light-full.png"
         }
@@ -2837,6 +3953,50 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-all-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-all-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-all-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-all-mobile-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-all-mobile-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-all-mobile-dark-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "guest/guest-directory-all-mobile-dark-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "guest/guest-directory-all-mobile-dark-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "guest/guest-directory-all-mobile-dark-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "guest/guest-directory-all-mobile-dark-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "guest/guest-directory-all-mobile-dark-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "guest/guest-directory-all-mobile-dark-window-12.png"
         },
         {
           "mode": "full",
@@ -2857,6 +4017,10 @@
           "file": "guest/guest-profile-admin-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-profile-admin-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-profile-admin-desktop-light-full.png"
         }
@@ -2873,6 +4037,10 @@
         {
           "mode": "fold",
           "file": "guest/guest-profile-admin-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-profile-admin-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -2893,6 +4061,10 @@
           "file": "guest/guest-profile-admin-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-profile-admin-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-profile-admin-mobile-light-full.png"
         }
@@ -2909,6 +4081,10 @@
         {
           "mode": "fold",
           "file": "guest/guest-profile-admin-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-profile-admin-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -2929,6 +4105,10 @@
           "file": "guest/guest-profile-artvandelay-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-profile-artvandelay-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-profile-artvandelay-desktop-light-full.png"
         }
@@ -2945,6 +4125,10 @@
         {
           "mode": "fold",
           "file": "guest/guest-profile-artvandelay-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-profile-artvandelay-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -2965,6 +4149,10 @@
           "file": "guest/guest-profile-artvandelay-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-profile-artvandelay-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-profile-artvandelay-mobile-light-full.png"
         }
@@ -2981,6 +4169,10 @@
         {
           "mode": "fold",
           "file": "guest/guest-profile-artvandelay-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-profile-artvandelay-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -3001,6 +4193,10 @@
           "file": "guest/guest-profile-newman-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-profile-newman-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-profile-newman-desktop-light-full.png"
         }
@@ -3017,6 +4213,10 @@
         {
           "mode": "fold",
           "file": "guest/guest-profile-newman-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-profile-newman-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -3433,6 +4633,10 @@
           "file": "guest/guest-directory-verified-search-art-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-verified-search-art-desktop-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-verified-search-art-desktop-light-full.png"
         }
@@ -3449,6 +4653,10 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-verified-search-art-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-verified-search-art-desktop-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -3469,6 +4677,10 @@
           "file": "guest/guest-directory-verified-search-art-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-verified-search-art-mobile-light-window-02.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-verified-search-art-mobile-light-full.png"
         }
@@ -3485,6 +4697,10 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-verified-search-art-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-verified-search-art-mobile-dark-window-02.png"
         },
         {
           "mode": "full",
@@ -3505,6 +4721,14 @@
           "file": "guest/guest-directory-all-search-art-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-all-search-art-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-all-search-art-desktop-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-all-search-art-desktop-light-full.png"
         }
@@ -3521,6 +4745,14 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-all-search-art-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-all-search-art-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-all-search-art-desktop-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -3541,6 +4773,14 @@
           "file": "guest/guest-directory-all-search-art-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-all-search-art-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-all-search-art-mobile-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-all-search-art-mobile-light-full.png"
         }
@@ -3557,6 +4797,14 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-all-search-art-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-all-search-art-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-all-search-art-mobile-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -3577,6 +4825,62 @@
           "file": "guest/guest-directory-js-disabled-desktop-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-12.png"
+        },
+        {
+          "mode": "window-13",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-13.png"
+        },
+        {
+          "mode": "window-14",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-14.png"
+        },
+        {
+          "mode": "window-15",
+          "file": "guest/guest-directory-js-disabled-desktop-light-window-15.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-js-disabled-desktop-light-full.png"
         }
@@ -3593,6 +4897,62 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-js-disabled-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-12.png"
+        },
+        {
+          "mode": "window-13",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-13.png"
+        },
+        {
+          "mode": "window-14",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-14.png"
+        },
+        {
+          "mode": "window-15",
+          "file": "guest/guest-directory-js-disabled-desktop-dark-window-15.png"
         },
         {
           "mode": "full",
@@ -3613,6 +4973,70 @@
           "file": "guest/guest-directory-js-disabled-mobile-light-fold.png"
         },
         {
+          "mode": "window-02",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-12.png"
+        },
+        {
+          "mode": "window-13",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-13.png"
+        },
+        {
+          "mode": "window-14",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-14.png"
+        },
+        {
+          "mode": "window-15",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-15.png"
+        },
+        {
+          "mode": "window-16",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-16.png"
+        },
+        {
+          "mode": "window-17",
+          "file": "guest/guest-directory-js-disabled-mobile-light-window-17.png"
+        },
+        {
           "mode": "full",
           "file": "guest/guest-directory-js-disabled-mobile-light-full.png"
         }
@@ -3629,6 +5053,70 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-js-disabled-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-04.png"
+        },
+        {
+          "mode": "window-05",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-05.png"
+        },
+        {
+          "mode": "window-06",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-06.png"
+        },
+        {
+          "mode": "window-07",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-07.png"
+        },
+        {
+          "mode": "window-08",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-08.png"
+        },
+        {
+          "mode": "window-09",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-09.png"
+        },
+        {
+          "mode": "window-10",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-10.png"
+        },
+        {
+          "mode": "window-11",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-11.png"
+        },
+        {
+          "mode": "window-12",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-12.png"
+        },
+        {
+          "mode": "window-13",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-13.png"
+        },
+        {
+          "mode": "window-14",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-14.png"
+        },
+        {
+          "mode": "window-15",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-15.png"
+        },
+        {
+          "mode": "window-16",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-16.png"
+        },
+        {
+          "mode": "window-17",
+          "file": "guest/guest-directory-js-disabled-mobile-dark-window-17.png"
         },
         {
           "mode": "full",
