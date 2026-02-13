@@ -1,6 +1,6 @@
 # Screenshot Set: v0.5.56
 
-Captured: 2026-02-12T23:30:19.882Z
+Captured: 2026-02-13T03:05:23.760Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -346,6 +346,22 @@ Captured: 2026-02-12T23:30:19.882Z
 | Settings - Authentication (artvandelay) | `/settings/auth` | artvandelay | mobile | dark | fold | ![auth-artvandelay-settings-auth-mobile-dark-fold](./artvandelay/auth-artvandelay-settings-auth-mobile-dark-fold.png) |
 | Settings - Authentication (artvandelay) | `/settings/auth` | artvandelay | mobile | dark | window-02 | ![auth-artvandelay-settings-auth-mobile-dark-window-02](./artvandelay/auth-artvandelay-settings-auth-mobile-dark-window-02.png) |
 | Settings - Authentication (artvandelay) | `/settings/auth` | artvandelay | mobile | dark | full | ![auth-artvandelay-settings-auth-mobile-dark-full](./artvandelay/auth-artvandelay-settings-auth-mobile-dark-full.png) |
+| Settings - Enable 2FA (artvandelay) | `/settings/auth` | artvandelay | desktop | light | fold | ![auth-artvandelay-enable-2fa-desktop-light-fold](./artvandelay/auth-artvandelay-enable-2fa-desktop-light-fold.png) |
+| Settings - Enable 2FA (artvandelay) | `/settings/auth` | artvandelay | desktop | light | full | ![auth-artvandelay-enable-2fa-desktop-light-full](./artvandelay/auth-artvandelay-enable-2fa-desktop-light-full.png) |
+| Settings - Enable 2FA (artvandelay) | `/settings/auth` | artvandelay | desktop | dark | fold | ![auth-artvandelay-enable-2fa-desktop-dark-fold](./artvandelay/auth-artvandelay-enable-2fa-desktop-dark-fold.png) |
+| Settings - Enable 2FA (artvandelay) | `/settings/auth` | artvandelay | desktop | dark | full | ![auth-artvandelay-enable-2fa-desktop-dark-full](./artvandelay/auth-artvandelay-enable-2fa-desktop-dark-full.png) |
+| Settings - Enable 2FA (artvandelay) | `/settings/auth` | artvandelay | mobile | light | fold | ![auth-artvandelay-enable-2fa-mobile-light-fold](./artvandelay/auth-artvandelay-enable-2fa-mobile-light-fold.png) |
+| Settings - Enable 2FA (artvandelay) | `/settings/auth` | artvandelay | mobile | light | full | ![auth-artvandelay-enable-2fa-mobile-light-full](./artvandelay/auth-artvandelay-enable-2fa-mobile-light-full.png) |
+| Settings - Enable 2FA (artvandelay) | `/settings/auth` | artvandelay | mobile | dark | fold | ![auth-artvandelay-enable-2fa-mobile-dark-fold](./artvandelay/auth-artvandelay-enable-2fa-mobile-dark-fold.png) |
+| Settings - Enable 2FA (artvandelay) | `/settings/auth` | artvandelay | mobile | dark | full | ![auth-artvandelay-enable-2fa-mobile-dark-full](./artvandelay/auth-artvandelay-enable-2fa-mobile-dark-full.png) |
+| Settings - Disable 2FA Confirm (artvandelay) | `/settings/confirm-disable-2fa` | artvandelay | desktop | light | fold | ![auth-artvandelay-disable-2fa-confirm-desktop-light-fold](./artvandelay/auth-artvandelay-disable-2fa-confirm-desktop-light-fold.png) |
+| Settings - Disable 2FA Confirm (artvandelay) | `/settings/confirm-disable-2fa` | artvandelay | desktop | light | full | ![auth-artvandelay-disable-2fa-confirm-desktop-light-full](./artvandelay/auth-artvandelay-disable-2fa-confirm-desktop-light-full.png) |
+| Settings - Disable 2FA Confirm (artvandelay) | `/settings/confirm-disable-2fa` | artvandelay | desktop | dark | fold | ![auth-artvandelay-disable-2fa-confirm-desktop-dark-fold](./artvandelay/auth-artvandelay-disable-2fa-confirm-desktop-dark-fold.png) |
+| Settings - Disable 2FA Confirm (artvandelay) | `/settings/confirm-disable-2fa` | artvandelay | desktop | dark | full | ![auth-artvandelay-disable-2fa-confirm-desktop-dark-full](./artvandelay/auth-artvandelay-disable-2fa-confirm-desktop-dark-full.png) |
+| Settings - Disable 2FA Confirm (artvandelay) | `/settings/confirm-disable-2fa` | artvandelay | mobile | light | fold | ![auth-artvandelay-disable-2fa-confirm-mobile-light-fold](./artvandelay/auth-artvandelay-disable-2fa-confirm-mobile-light-fold.png) |
+| Settings - Disable 2FA Confirm (artvandelay) | `/settings/confirm-disable-2fa` | artvandelay | mobile | light | full | ![auth-artvandelay-disable-2fa-confirm-mobile-light-full](./artvandelay/auth-artvandelay-disable-2fa-confirm-mobile-light-full.png) |
+| Settings - Disable 2FA Confirm (artvandelay) | `/settings/confirm-disable-2fa` | artvandelay | mobile | dark | fold | ![auth-artvandelay-disable-2fa-confirm-mobile-dark-fold](./artvandelay/auth-artvandelay-disable-2fa-confirm-mobile-dark-fold.png) |
+| Settings - Disable 2FA Confirm (artvandelay) | `/settings/confirm-disable-2fa` | artvandelay | mobile | dark | full | ![auth-artvandelay-disable-2fa-confirm-mobile-dark-full](./artvandelay/auth-artvandelay-disable-2fa-confirm-mobile-dark-full.png) |
 | Settings - Encryption (artvandelay) | `/settings/encryption` | artvandelay | desktop | light | fold | ![auth-artvandelay-settings-encryption-desktop-light-fold](./artvandelay/auth-artvandelay-settings-encryption-desktop-light-fold.png) |
 | Settings - Encryption (artvandelay) | `/settings/encryption` | artvandelay | desktop | light | window-02 | ![auth-artvandelay-settings-encryption-desktop-light-window-02](./artvandelay/auth-artvandelay-settings-encryption-desktop-light-window-02.png) |
 | Settings - Encryption (artvandelay) | `/settings/encryption` | artvandelay | desktop | light | full | ![auth-artvandelay-settings-encryption-desktop-light-full](./artvandelay/auth-artvandelay-settings-encryption-desktop-light-full.png) |

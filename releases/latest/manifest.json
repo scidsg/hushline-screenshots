@@ -1,7 +1,7 @@
 {
   "release": "v0.5.56",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-12T23:30:19.882Z",
+  "capturedAt": "2026-02-13T03:05:23.760Z",
   "viewports": [
     {
       "id": "desktop",
@@ -2201,6 +2201,150 @@
         {
           "mode": "full",
           "file": "artvandelay/auth-artvandelay-settings-auth-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Enable 2FA (artvandelay)",
+      "slug": "auth-artvandelay-enable-2fa",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-enable-2fa-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-enable-2fa-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Enable 2FA (artvandelay)",
+      "slug": "auth-artvandelay-enable-2fa",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-enable-2fa-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-enable-2fa-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Enable 2FA (artvandelay)",
+      "slug": "auth-artvandelay-enable-2fa",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-enable-2fa-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-enable-2fa-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Enable 2FA (artvandelay)",
+      "slug": "auth-artvandelay-enable-2fa",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-enable-2fa-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-enable-2fa-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Disable 2FA Confirm (artvandelay)",
+      "slug": "auth-artvandelay-disable-2fa-confirm",
+      "path": "/settings/confirm-disable-2fa",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-disable-2fa-confirm-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-disable-2fa-confirm-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Disable 2FA Confirm (artvandelay)",
+      "slug": "auth-artvandelay-disable-2fa-confirm",
+      "path": "/settings/confirm-disable-2fa",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-disable-2fa-confirm-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-disable-2fa-confirm-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Disable 2FA Confirm (artvandelay)",
+      "slug": "auth-artvandelay-disable-2fa-confirm",
+      "path": "/settings/confirm-disable-2fa",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-disable-2fa-confirm-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-disable-2fa-confirm-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Disable 2FA Confirm (artvandelay)",
+      "slug": "auth-artvandelay-disable-2fa-confirm",
+      "path": "/settings/confirm-disable-2fa",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-disable-2fa-confirm-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-disable-2fa-confirm-mobile-dark-full.png"
         }
       ]
     },
