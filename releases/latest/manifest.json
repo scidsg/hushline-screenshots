@@ -1,7 +1,7 @@
 {
   "release": "v0.5.62",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-16T04:37:13.968Z",
+  "capturedAt": "2026-02-16T20:06:43.748Z",
   "viewports": [
     {
       "id": "desktop",
@@ -717,6 +717,10 @@
           "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-light-window-02.png"
         },
         {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-light-window-03.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-light-full.png"
         }
@@ -737,6 +741,10 @@
         {
           "mode": "window-02",
           "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-dark-window-03.png"
         },
         {
           "mode": "full",
@@ -765,6 +773,10 @@
           "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-light-window-03.png"
         },
         {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-light-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-light-full.png"
         }
@@ -791,6 +803,10 @@
           "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-dark-window-03.png"
         },
         {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-dark-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-dark-full.png"
         }
@@ -813,6 +829,14 @@
           "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-light-window-02.png"
         },
         {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-light-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-light-full.png"
         }
@@ -833,6 +857,14 @@
         {
           "mode": "window-02",
           "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-dark-window-04.png"
         },
         {
           "mode": "full",
@@ -861,6 +893,10 @@
           "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-light-window-03.png"
         },
         {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-light-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-light-full.png"
         }
@@ -887,6 +923,10 @@
           "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-dark-window-03.png"
         },
         {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-dark-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-dark-full.png"
         }
@@ -909,6 +949,14 @@
           "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-light-window-02.png"
         },
         {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-light-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-light-full.png"
         }
@@ -929,6 +977,14 @@
         {
           "mode": "window-02",
           "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-dark-window-04.png"
         },
         {
           "mode": "full",
@@ -957,6 +1013,10 @@
           "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-light-window-03.png"
         },
         {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-light-window-04.png"
+        },
+        {
           "mode": "full",
           "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-light-full.png"
         }
@@ -981,6 +1041,10 @@
         {
           "mode": "window-03",
           "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-dark-window-04.png"
         },
         {
           "mode": "full",
