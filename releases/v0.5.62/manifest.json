@@ -1,7 +1,7 @@
 {
   "release": "v0.5.62",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-16T01:27:26.598Z",
+  "capturedAt": "2026-02-16T02:48:39.706Z",
   "viewports": [
     {
       "id": "desktop",
@@ -625,6 +625,150 @@
         {
           "mode": "full",
           "file": "admin/auth-admin-inbox-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation (admin)",
+      "slug": "auth-admin-tools-email-validation",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation (admin)",
+      "slug": "auth-admin-tools-email-validation",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation (admin)",
+      "slug": "auth-admin-tools-email-validation",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation (admin)",
+      "slug": "auth-admin-tools-email-validation",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Vision Assistant (admin)",
+      "slug": "auth-admin-tools-vision-assistant",
+      "path": "/vision",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-vision-assistant-desktop-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-vision-assistant-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Vision Assistant (admin)",
+      "slug": "auth-admin-tools-vision-assistant",
+      "path": "/vision",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-vision-assistant-desktop-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-vision-assistant-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Vision Assistant (admin)",
+      "slug": "auth-admin-tools-vision-assistant",
+      "path": "/vision",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-vision-assistant-mobile-light-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-vision-assistant-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Vision Assistant (admin)",
+      "slug": "auth-admin-tools-vision-assistant",
+      "path": "/vision",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-vision-assistant-mobile-dark-fold.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-vision-assistant-mobile-dark-full.png"
         }
       ]
     },

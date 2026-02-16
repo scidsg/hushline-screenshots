@@ -1,6 +1,6 @@
 # Screenshot Set: v0.5.62
 
-Captured: 2026-02-16T01:27:26.598Z
+Captured: 2026-02-16T02:48:39.706Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -112,6 +112,22 @@ Captured: 2026-02-16T01:27:26.598Z
 | Inbox - admin | `/inbox` | admin | mobile | dark | window-03 | ![auth-admin-inbox-mobile-dark-window-03](./admin/auth-admin-inbox-mobile-dark-window-03.png) |
 | Inbox - admin | `/inbox` | admin | mobile | dark | window-04 | ![auth-admin-inbox-mobile-dark-window-04](./admin/auth-admin-inbox-mobile-dark-window-04.png) |
 | Inbox - admin | `/inbox` | admin | mobile | dark | full | ![auth-admin-inbox-mobile-dark-full](./admin/auth-admin-inbox-mobile-dark-full.png) |
+| Tools - Email Validation (admin) | `/email-headers` | admin | desktop | light | fold | ![auth-admin-tools-email-validation-desktop-light-fold](./admin/auth-admin-tools-email-validation-desktop-light-fold.png) |
+| Tools - Email Validation (admin) | `/email-headers` | admin | desktop | light | full | ![auth-admin-tools-email-validation-desktop-light-full](./admin/auth-admin-tools-email-validation-desktop-light-full.png) |
+| Tools - Email Validation (admin) | `/email-headers` | admin | desktop | dark | fold | ![auth-admin-tools-email-validation-desktop-dark-fold](./admin/auth-admin-tools-email-validation-desktop-dark-fold.png) |
+| Tools - Email Validation (admin) | `/email-headers` | admin | desktop | dark | full | ![auth-admin-tools-email-validation-desktop-dark-full](./admin/auth-admin-tools-email-validation-desktop-dark-full.png) |
+| Tools - Email Validation (admin) | `/email-headers` | admin | mobile | light | fold | ![auth-admin-tools-email-validation-mobile-light-fold](./admin/auth-admin-tools-email-validation-mobile-light-fold.png) |
+| Tools - Email Validation (admin) | `/email-headers` | admin | mobile | light | full | ![auth-admin-tools-email-validation-mobile-light-full](./admin/auth-admin-tools-email-validation-mobile-light-full.png) |
+| Tools - Email Validation (admin) | `/email-headers` | admin | mobile | dark | fold | ![auth-admin-tools-email-validation-mobile-dark-fold](./admin/auth-admin-tools-email-validation-mobile-dark-fold.png) |
+| Tools - Email Validation (admin) | `/email-headers` | admin | mobile | dark | full | ![auth-admin-tools-email-validation-mobile-dark-full](./admin/auth-admin-tools-email-validation-mobile-dark-full.png) |
+| Tools - Vision Assistant (admin) | `/vision` | admin | desktop | light | fold | ![auth-admin-tools-vision-assistant-desktop-light-fold](./admin/auth-admin-tools-vision-assistant-desktop-light-fold.png) |
+| Tools - Vision Assistant (admin) | `/vision` | admin | desktop | light | full | ![auth-admin-tools-vision-assistant-desktop-light-full](./admin/auth-admin-tools-vision-assistant-desktop-light-full.png) |
+| Tools - Vision Assistant (admin) | `/vision` | admin | desktop | dark | fold | ![auth-admin-tools-vision-assistant-desktop-dark-fold](./admin/auth-admin-tools-vision-assistant-desktop-dark-fold.png) |
+| Tools - Vision Assistant (admin) | `/vision` | admin | desktop | dark | full | ![auth-admin-tools-vision-assistant-desktop-dark-full](./admin/auth-admin-tools-vision-assistant-desktop-dark-full.png) |
+| Tools - Vision Assistant (admin) | `/vision` | admin | mobile | light | fold | ![auth-admin-tools-vision-assistant-mobile-light-fold](./admin/auth-admin-tools-vision-assistant-mobile-light-fold.png) |
+| Tools - Vision Assistant (admin) | `/vision` | admin | mobile | light | full | ![auth-admin-tools-vision-assistant-mobile-light-full](./admin/auth-admin-tools-vision-assistant-mobile-light-full.png) |
+| Tools - Vision Assistant (admin) | `/vision` | admin | mobile | dark | fold | ![auth-admin-tools-vision-assistant-mobile-dark-fold](./admin/auth-admin-tools-vision-assistant-mobile-dark-fold.png) |
+| Tools - Vision Assistant (admin) | `/vision` | admin | mobile | dark | full | ![auth-admin-tools-vision-assistant-mobile-dark-full](./admin/auth-admin-tools-vision-assistant-mobile-dark-full.png) |
 | Settings - Profile (admin) | `/settings/profile` | admin | desktop | light | fold | ![auth-admin-settings-profile-desktop-light-fold](./admin/auth-admin-settings-profile-desktop-light-fold.png) |
 | Settings - Profile (admin) | `/settings/profile` | admin | desktop | light | window-02 | ![auth-admin-settings-profile-desktop-light-window-02](./admin/auth-admin-settings-profile-desktop-light-window-02.png) |
 | Settings - Profile (admin) | `/settings/profile` | admin | desktop | light | window-03 | ![auth-admin-settings-profile-desktop-light-window-03](./admin/auth-admin-settings-profile-desktop-light-window-03.png) |
