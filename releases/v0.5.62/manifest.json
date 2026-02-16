@@ -1,7 +1,7 @@
 {
   "release": "v0.5.62",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-16T02:48:39.706Z",
+  "capturedAt": "2026-02-16T03:48:28.948Z",
   "viewports": [
     {
       "id": "desktop",
@@ -697,6 +697,294 @@
         {
           "mode": "full",
           "file": "admin/auth-admin-tools-email-validation-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (admin)",
+      "slug": "auth-admin-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-light-window-02.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (admin)",
+      "slug": "auth-admin-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (admin)",
+      "slug": "auth-admin-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-light-window-03.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (admin)",
+      "slug": "auth-admin-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears inauthentic (admin)",
+      "slug": "auth-admin-tools-email-validation-status-inauthentic",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-light-window-02.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears inauthentic (admin)",
+      "slug": "auth-admin-tools-email-validation-status-inauthentic",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears inauthentic (admin)",
+      "slug": "auth-admin-tools-email-validation-status-inauthentic",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-light-window-03.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears inauthentic (admin)",
+      "slug": "auth-admin-tools-email-validation-status-inauthentic",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears forged (admin)",
+      "slug": "auth-admin-tools-email-validation-status-forged",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-light-window-02.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears forged (admin)",
+      "slug": "auth-admin-tools-email-validation-status-forged",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears forged (admin)",
+      "slug": "auth-admin-tools-email-validation-status-forged",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-light-window-03.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears forged (admin)",
+      "slug": "auth-admin-tools-email-validation-status-forged",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-mobile-dark-full.png"
         }
       ]
     },
