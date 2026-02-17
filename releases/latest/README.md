@@ -1,6 +1,6 @@
 # Screenshot Set: v0.5.63
 
-Captured: 2026-02-16T23:38:35.529Z
+Captured: 2026-02-17T02:19:56.004Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -351,6 +351,7 @@ Captured: 2026-02-16T23:38:35.529Z
 | Settings - Admin (admin) | `/settings/admin` | admin | mobile | light | window-10 | ![auth-admin-settings-admin-mobile-light-window-10](./admin/auth-admin-settings-admin-mobile-light-window-10.png) |
 | Settings - Admin (admin) | `/settings/admin` | admin | mobile | light | window-11 | ![auth-admin-settings-admin-mobile-light-window-11](./admin/auth-admin-settings-admin-mobile-light-window-11.png) |
 | Settings - Admin (admin) | `/settings/admin` | admin | mobile | light | window-12 | ![auth-admin-settings-admin-mobile-light-window-12](./admin/auth-admin-settings-admin-mobile-light-window-12.png) |
+| Settings - Admin (admin) | `/settings/admin` | admin | mobile | light | window-13 | ![auth-admin-settings-admin-mobile-light-window-13](./admin/auth-admin-settings-admin-mobile-light-window-13.png) |
 | Settings - Admin (admin) | `/settings/admin` | admin | mobile | dark | full | ![auth-admin-settings-admin-mobile-dark-full](./admin/auth-admin-settings-admin-mobile-dark-full.png) |
 | Settings - Admin (admin) | `/settings/admin` | admin | mobile | dark | fold | ![auth-admin-settings-admin-mobile-dark-fold](./admin/auth-admin-settings-admin-mobile-dark-fold.png) |
 | Settings - Admin (admin) | `/settings/admin` | admin | mobile | dark | window-02 | ![auth-admin-settings-admin-mobile-dark-window-02](./admin/auth-admin-settings-admin-mobile-dark-window-02.png) |
@@ -364,6 +365,19 @@ Captured: 2026-02-16T23:38:35.529Z
 | Settings - Admin (admin) | `/settings/admin` | admin | mobile | dark | window-10 | ![auth-admin-settings-admin-mobile-dark-window-10](./admin/auth-admin-settings-admin-mobile-dark-window-10.png) |
 | Settings - Admin (admin) | `/settings/admin` | admin | mobile | dark | window-11 | ![auth-admin-settings-admin-mobile-dark-window-11](./admin/auth-admin-settings-admin-mobile-dark-window-11.png) |
 | Settings - Admin (admin) | `/settings/admin` | admin | mobile | dark | window-12 | ![auth-admin-settings-admin-mobile-dark-window-12](./admin/auth-admin-settings-admin-mobile-dark-window-12.png) |
+| Settings - Admin (admin) | `/settings/admin` | admin | mobile | dark | window-13 | ![auth-admin-settings-admin-mobile-dark-window-13](./admin/auth-admin-settings-admin-mobile-dark-window-13.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | desktop | light | full | ![auth-admin-settings-admin-search-buster-desktop-light-full](./admin/auth-admin-settings-admin-search-buster-desktop-light-full.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | desktop | light | fold | ![auth-admin-settings-admin-search-buster-desktop-light-fold](./admin/auth-admin-settings-admin-search-buster-desktop-light-fold.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | desktop | light | window-02 | ![auth-admin-settings-admin-search-buster-desktop-light-window-02](./admin/auth-admin-settings-admin-search-buster-desktop-light-window-02.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | desktop | dark | full | ![auth-admin-settings-admin-search-buster-desktop-dark-full](./admin/auth-admin-settings-admin-search-buster-desktop-dark-full.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | desktop | dark | fold | ![auth-admin-settings-admin-search-buster-desktop-dark-fold](./admin/auth-admin-settings-admin-search-buster-desktop-dark-fold.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | desktop | dark | window-02 | ![auth-admin-settings-admin-search-buster-desktop-dark-window-02](./admin/auth-admin-settings-admin-search-buster-desktop-dark-window-02.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | mobile | light | full | ![auth-admin-settings-admin-search-buster-mobile-light-full](./admin/auth-admin-settings-admin-search-buster-mobile-light-full.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | mobile | light | fold | ![auth-admin-settings-admin-search-buster-mobile-light-fold](./admin/auth-admin-settings-admin-search-buster-mobile-light-fold.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | mobile | light | window-02 | ![auth-admin-settings-admin-search-buster-mobile-light-window-02](./admin/auth-admin-settings-admin-search-buster-mobile-light-window-02.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | mobile | dark | full | ![auth-admin-settings-admin-search-buster-mobile-dark-full](./admin/auth-admin-settings-admin-search-buster-mobile-dark-full.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | mobile | dark | fold | ![auth-admin-settings-admin-search-buster-mobile-dark-fold](./admin/auth-admin-settings-admin-search-buster-mobile-dark-fold.png) |
+| Settings - Admin Search 'buster' (admin) | `/settings/admin` | admin | mobile | dark | window-02 | ![auth-admin-settings-admin-search-buster-mobile-dark-window-02](./admin/auth-admin-settings-admin-search-buster-mobile-dark-window-02.png) |
 | Profile - artvandelay (authenticated) | `/to/artvandelay` | artvandelay | desktop | light | full | ![auth-artvandelay-profile-desktop-light-full](./artvandelay/auth-artvandelay-profile-desktop-light-full.png) |
 | Profile - artvandelay (authenticated) | `/to/artvandelay` | artvandelay | desktop | light | fold | ![auth-artvandelay-profile-desktop-light-fold](./artvandelay/auth-artvandelay-profile-desktop-light-fold.png) |
 | Profile - artvandelay (authenticated) | `/to/artvandelay` | artvandelay | desktop | light | window-02 | ![auth-artvandelay-profile-desktop-light-window-02](./artvandelay/auth-artvandelay-profile-desktop-light-window-02.png) |

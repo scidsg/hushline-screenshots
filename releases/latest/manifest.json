@@ -1,7 +1,7 @@
 {
   "release": "v0.5.63",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-16T23:38:35.529Z",
+  "capturedAt": "2026-02-17T02:19:56.004Z",
   "viewports": [
     {
       "id": "desktop",
@@ -2211,6 +2211,10 @@
         {
           "mode": "window-12",
           "file": "admin/auth-admin-settings-admin-mobile-light-window-12.png"
+        },
+        {
+          "mode": "window-13",
+          "file": "admin/auth-admin-settings-admin-mobile-light-window-13.png"
         }
       ]
     },
@@ -2273,6 +2277,98 @@
         {
           "mode": "window-12",
           "file": "admin/auth-admin-settings-admin-mobile-dark-window-12.png"
+        },
+        {
+          "mode": "window-13",
+          "file": "admin/auth-admin-settings-admin-mobile-dark-window-13.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Admin Search 'buster' (admin)",
+      "slug": "auth-admin-settings-admin-search-buster",
+      "path": "/settings/admin",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-admin-search-buster-desktop-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-admin-search-buster-desktop-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-admin-search-buster-desktop-light-window-02.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Admin Search 'buster' (admin)",
+      "slug": "auth-admin-settings-admin-search-buster",
+      "path": "/settings/admin",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-admin-search-buster-desktop-dark-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-admin-search-buster-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-admin-search-buster-desktop-dark-window-02.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Admin Search 'buster' (admin)",
+      "slug": "auth-admin-settings-admin-search-buster",
+      "path": "/settings/admin",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-admin-search-buster-mobile-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-admin-search-buster-mobile-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-admin-search-buster-mobile-light-window-02.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Admin Search 'buster' (admin)",
+      "slug": "auth-admin-settings-admin-search-buster",
+      "path": "/settings/admin",
+      "session": "admin",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "admin/auth-admin-settings-admin-search-buster-mobile-dark-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-settings-admin-search-buster-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "admin/auth-admin-settings-admin-search-buster-mobile-dark-window-02.png"
         }
       ]
     },
