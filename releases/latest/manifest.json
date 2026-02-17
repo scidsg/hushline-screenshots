@@ -1,7 +1,7 @@
 {
   "release": "v0.5.64",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-17T02:36:55.023Z",
+  "capturedAt": "2026-02-17T16:39:21.112Z",
   "viewports": [
     {
       "id": "desktop",
@@ -2529,6 +2529,150 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-inbox-mobile-dark-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation (artvandelay)",
+      "slug": "auth-artvandelay-tools-email-validation",
+      "path": "/email-headers",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-desktop-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation (artvandelay)",
+      "slug": "auth-artvandelay-tools-email-validation",
+      "path": "/email-headers",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-desktop-dark-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-desktop-dark-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation (artvandelay)",
+      "slug": "auth-artvandelay-tools-email-validation",
+      "path": "/email-headers",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-mobile-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-mobile-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation (artvandelay)",
+      "slug": "auth-artvandelay-tools-email-validation",
+      "path": "/email-headers",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-mobile-dark-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-mobile-dark-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Vision Assistant (artvandelay)",
+      "slug": "auth-artvandelay-tools-vision",
+      "path": "/vision",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-vision-desktop-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-vision-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Vision Assistant (artvandelay)",
+      "slug": "auth-artvandelay-tools-vision",
+      "path": "/vision",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-vision-desktop-dark-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-vision-desktop-dark-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Vision Assistant (artvandelay)",
+      "slug": "auth-artvandelay-tools-vision",
+      "path": "/vision",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-vision-mobile-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-vision-mobile-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Vision Assistant (artvandelay)",
+      "slug": "auth-artvandelay-tools-vision",
+      "path": "/vision",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-vision-mobile-dark-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-vision-mobile-dark-fold.png"
         }
       ]
     },

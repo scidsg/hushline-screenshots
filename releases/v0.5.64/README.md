@@ -1,6 +1,6 @@
 # Screenshot Set: v0.5.64
 
-Captured: 2026-02-17T02:36:55.023Z
+Captured: 2026-02-17T16:39:21.112Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -398,6 +398,22 @@ Captured: 2026-02-17T02:36:55.023Z
 | Inbox - artvandelay | `/inbox` | artvandelay | mobile | light | fold | ![auth-artvandelay-inbox-mobile-light-fold](./artvandelay/auth-artvandelay-inbox-mobile-light-fold.png) |
 | Inbox - artvandelay | `/inbox` | artvandelay | mobile | dark | full | ![auth-artvandelay-inbox-mobile-dark-full](./artvandelay/auth-artvandelay-inbox-mobile-dark-full.png) |
 | Inbox - artvandelay | `/inbox` | artvandelay | mobile | dark | fold | ![auth-artvandelay-inbox-mobile-dark-fold](./artvandelay/auth-artvandelay-inbox-mobile-dark-fold.png) |
+| Tools - Email Validation (artvandelay) | `/email-headers` | artvandelay | desktop | light | full | ![auth-artvandelay-tools-email-validation-desktop-light-full](./artvandelay/auth-artvandelay-tools-email-validation-desktop-light-full.png) |
+| Tools - Email Validation (artvandelay) | `/email-headers` | artvandelay | desktop | light | fold | ![auth-artvandelay-tools-email-validation-desktop-light-fold](./artvandelay/auth-artvandelay-tools-email-validation-desktop-light-fold.png) |
+| Tools - Email Validation (artvandelay) | `/email-headers` | artvandelay | desktop | dark | full | ![auth-artvandelay-tools-email-validation-desktop-dark-full](./artvandelay/auth-artvandelay-tools-email-validation-desktop-dark-full.png) |
+| Tools - Email Validation (artvandelay) | `/email-headers` | artvandelay | desktop | dark | fold | ![auth-artvandelay-tools-email-validation-desktop-dark-fold](./artvandelay/auth-artvandelay-tools-email-validation-desktop-dark-fold.png) |
+| Tools - Email Validation (artvandelay) | `/email-headers` | artvandelay | mobile | light | full | ![auth-artvandelay-tools-email-validation-mobile-light-full](./artvandelay/auth-artvandelay-tools-email-validation-mobile-light-full.png) |
+| Tools - Email Validation (artvandelay) | `/email-headers` | artvandelay | mobile | light | fold | ![auth-artvandelay-tools-email-validation-mobile-light-fold](./artvandelay/auth-artvandelay-tools-email-validation-mobile-light-fold.png) |
+| Tools - Email Validation (artvandelay) | `/email-headers` | artvandelay | mobile | dark | full | ![auth-artvandelay-tools-email-validation-mobile-dark-full](./artvandelay/auth-artvandelay-tools-email-validation-mobile-dark-full.png) |
+| Tools - Email Validation (artvandelay) | `/email-headers` | artvandelay | mobile | dark | fold | ![auth-artvandelay-tools-email-validation-mobile-dark-fold](./artvandelay/auth-artvandelay-tools-email-validation-mobile-dark-fold.png) |
+| Tools - Vision Assistant (artvandelay) | `/vision` | artvandelay | desktop | light | full | ![auth-artvandelay-tools-vision-desktop-light-full](./artvandelay/auth-artvandelay-tools-vision-desktop-light-full.png) |
+| Tools - Vision Assistant (artvandelay) | `/vision` | artvandelay | desktop | light | fold | ![auth-artvandelay-tools-vision-desktop-light-fold](./artvandelay/auth-artvandelay-tools-vision-desktop-light-fold.png) |
+| Tools - Vision Assistant (artvandelay) | `/vision` | artvandelay | desktop | dark | full | ![auth-artvandelay-tools-vision-desktop-dark-full](./artvandelay/auth-artvandelay-tools-vision-desktop-dark-full.png) |
+| Tools - Vision Assistant (artvandelay) | `/vision` | artvandelay | desktop | dark | fold | ![auth-artvandelay-tools-vision-desktop-dark-fold](./artvandelay/auth-artvandelay-tools-vision-desktop-dark-fold.png) |
+| Tools - Vision Assistant (artvandelay) | `/vision` | artvandelay | mobile | light | full | ![auth-artvandelay-tools-vision-mobile-light-full](./artvandelay/auth-artvandelay-tools-vision-mobile-light-full.png) |
+| Tools - Vision Assistant (artvandelay) | `/vision` | artvandelay | mobile | light | fold | ![auth-artvandelay-tools-vision-mobile-light-fold](./artvandelay/auth-artvandelay-tools-vision-mobile-light-fold.png) |
+| Tools - Vision Assistant (artvandelay) | `/vision` | artvandelay | mobile | dark | full | ![auth-artvandelay-tools-vision-mobile-dark-full](./artvandelay/auth-artvandelay-tools-vision-mobile-dark-full.png) |
+| Tools - Vision Assistant (artvandelay) | `/vision` | artvandelay | mobile | dark | fold | ![auth-artvandelay-tools-vision-mobile-dark-fold](./artvandelay/auth-artvandelay-tools-vision-mobile-dark-fold.png) |
 | Settings - Profile (artvandelay) | `/settings/profile` | artvandelay | desktop | light | full | ![auth-artvandelay-settings-profile-desktop-light-full](./artvandelay/auth-artvandelay-settings-profile-desktop-light-full.png) |
 | Settings - Profile (artvandelay) | `/settings/profile` | artvandelay | desktop | light | fold | ![auth-artvandelay-settings-profile-desktop-light-fold](./artvandelay/auth-artvandelay-settings-profile-desktop-light-fold.png) |
 | Settings - Profile (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-02 | ![auth-artvandelay-settings-profile-desktop-light-window-02](./artvandelay/auth-artvandelay-settings-profile-desktop-light-window-02.png) |
