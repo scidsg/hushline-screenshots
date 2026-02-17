@@ -1,7 +1,7 @@
 {
   "release": "v0.5.64",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-17T19:18:00.049Z",
+  "capturedAt": "2026-02-17T20:26:50.841Z",
   "viewports": [
     {
       "id": "desktop",
@@ -2803,6 +2803,118 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-tools-email-validation-mobile-dark-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (artvandelay)",
+      "slug": "auth-artvandelay-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-light-window-03.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (artvandelay)",
+      "slug": "auth-artvandelay-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-dark-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-dark-window-03.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (artvandelay)",
+      "slug": "auth-artvandelay-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-light-window-04.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (artvandelay)",
+      "slug": "auth-artvandelay-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-dark-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-dark-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-dark-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-mobile-dark-window-04.png"
         }
       ]
     },
