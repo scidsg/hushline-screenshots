@@ -1,7 +1,7 @@
 {
   "release": "v0.5.64",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-02-17T18:41:07.655Z",
+  "capturedAt": "2026-02-17T19:18:00.049Z",
   "viewports": [
     {
       "id": "desktop",
@@ -5183,6 +5183,32 @@
       ]
     },
     {
+      "title": "Profile custom form reset - default state (artvandelay)",
+      "slug": "auth-artvandelay-profile-custom-form-reset-default-guest",
+      "path": "/settings/profile",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-03.png"
+        }
+      ]
+    },
+    {
       "title": "Profile - artvandelay",
       "slug": "guest-profile-artvandelay",
       "path": "/to/artvandelay",
@@ -5267,6 +5293,36 @@
         {
           "mode": "window-02",
           "file": "guest/guest-profile-artvandelay-mobile-dark-window-02.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile custom form setup for guest capture - industry choices (artvandelay)",
+      "slug": "auth-artvandelay-profile-custom-form-setup-industry-guest",
+      "path": "/settings/profile",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-full.png"
+        },
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-window-02.png"
+        },
+        {
+          "mode": "window-03",
+          "file": "artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-window-03.png"
+        },
+        {
+          "mode": "window-04",
+          "file": "artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-window-04.png"
         }
       ]
     },

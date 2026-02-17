@@ -1,6 +1,6 @@
 # Screenshot Set: v0.5.64
 
-Captured: 2026-02-17T18:41:07.655Z
+Captured: 2026-02-17T19:18:00.049Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -768,6 +768,10 @@ Captured: 2026-02-17T18:41:07.655Z
 | Profile - admin | `/to/admin` | guest | mobile | dark | full | ![guest-profile-admin-mobile-dark-full](./guest/guest-profile-admin-mobile-dark-full.png) |
 | Profile - admin | `/to/admin` | guest | mobile | dark | fold | ![guest-profile-admin-mobile-dark-fold](./guest/guest-profile-admin-mobile-dark-fold.png) |
 | Profile - admin | `/to/admin` | guest | mobile | dark | window-02 | ![guest-profile-admin-mobile-dark-window-02](./guest/guest-profile-admin-mobile-dark-window-02.png) |
+| Profile custom form reset - default state (artvandelay) | `/settings/profile` | artvandelay | desktop | light | full | ![auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-full](./artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-full.png) |
+| Profile custom form reset - default state (artvandelay) | `/settings/profile` | artvandelay | desktop | light | fold | ![auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-fold](./artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-fold.png) |
+| Profile custom form reset - default state (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-02 | ![auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-02](./artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-02.png) |
+| Profile custom form reset - default state (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-03 | ![auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-03](./artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-03.png) |
 | Profile - artvandelay | `/to/artvandelay` | guest | desktop | light | full | ![guest-profile-artvandelay-desktop-light-full](./guest/guest-profile-artvandelay-desktop-light-full.png) |
 | Profile - artvandelay | `/to/artvandelay` | guest | desktop | light | fold | ![guest-profile-artvandelay-desktop-light-fold](./guest/guest-profile-artvandelay-desktop-light-fold.png) |
 | Profile - artvandelay | `/to/artvandelay` | guest | desktop | light | window-02 | ![guest-profile-artvandelay-desktop-light-window-02](./guest/guest-profile-artvandelay-desktop-light-window-02.png) |
@@ -780,6 +784,11 @@ Captured: 2026-02-17T18:41:07.655Z
 | Profile - artvandelay | `/to/artvandelay` | guest | mobile | dark | full | ![guest-profile-artvandelay-mobile-dark-full](./guest/guest-profile-artvandelay-mobile-dark-full.png) |
 | Profile - artvandelay | `/to/artvandelay` | guest | mobile | dark | fold | ![guest-profile-artvandelay-mobile-dark-fold](./guest/guest-profile-artvandelay-mobile-dark-fold.png) |
 | Profile - artvandelay | `/to/artvandelay` | guest | mobile | dark | window-02 | ![guest-profile-artvandelay-mobile-dark-window-02](./guest/guest-profile-artvandelay-mobile-dark-window-02.png) |
+| Profile custom form setup for guest capture - industry choices (artvandelay) | `/settings/profile` | artvandelay | desktop | light | full | ![auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-full](./artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-full.png) |
+| Profile custom form setup for guest capture - industry choices (artvandelay) | `/settings/profile` | artvandelay | desktop | light | fold | ![auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-fold](./artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-fold.png) |
+| Profile custom form setup for guest capture - industry choices (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-02 | ![auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-window-02](./artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-window-02.png) |
+| Profile custom form setup for guest capture - industry choices (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-03 | ![auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-window-03](./artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-window-03.png) |
+| Profile custom form setup for guest capture - industry choices (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-04 | ![auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-window-04](./artvandelay/auth-artvandelay-profile-custom-form-setup-industry-guest-desktop-light-window-04.png) |
 | Profile - artvandelay custom form | `/to/artvandelay` | guest | desktop | light | full | ![guest-profile-artvandelay-custom-form-desktop-light-full](./guest/guest-profile-artvandelay-custom-form-desktop-light-full.png) |
 | Profile - artvandelay custom form | `/to/artvandelay` | guest | desktop | light | fold | ![guest-profile-artvandelay-custom-form-desktop-light-fold](./guest/guest-profile-artvandelay-custom-form-desktop-light-fold.png) |
 | Profile - artvandelay custom form | `/to/artvandelay` | guest | desktop | light | window-02 | ![guest-profile-artvandelay-custom-form-desktop-light-window-02](./guest/guest-profile-artvandelay-custom-form-desktop-light-window-02.png) |
