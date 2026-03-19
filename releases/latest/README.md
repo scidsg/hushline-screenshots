@@ -1,6 +1,6 @@
 # Screenshot Set: v0.6.0
 
-Captured: 2026-03-19T08:30:25.869Z
+Captured: 2026-03-19T18:22:22.263Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1562,8 +1562,6 @@ Captured: 2026-03-19T08:30:25.869Z
 | Profile custom form reset - default state (artvandelay) | `/settings/profile` | artvandelay | desktop | light | fold | ![auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-fold](./artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-fold.png) |
 | Profile custom form reset - default state (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-02 | ![auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-02](./artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-02.png) |
 | Profile custom form reset - default state (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-03 | ![auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-03](./artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-03.png) |
-| Profile custom form reset - default state (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-04 | ![auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-04](./artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-04.png) |
-| Profile custom form reset - default state (artvandelay) | `/settings/profile` | artvandelay | desktop | light | window-05 | ![auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-05](./artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-05.png) |
 | Profile - artvandelay | `/to/artvandelay` | guest | desktop | light | full | ![guest-profile-artvandelay-desktop-light-full](./guest/guest-profile-artvandelay-desktop-light-full.png) |
 | Profile - artvandelay | `/to/artvandelay` | guest | desktop | light | fold | ![guest-profile-artvandelay-desktop-light-fold](./guest/guest-profile-artvandelay-desktop-light-fold.png) |
 | Profile - artvandelay | `/to/artvandelay` | guest | desktop | light | window-02 | ![guest-profile-artvandelay-desktop-light-window-02](./guest/guest-profile-artvandelay-desktop-light-window-02.png) |

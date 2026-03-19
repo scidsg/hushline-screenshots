@@ -1,7 +1,7 @@
 {
   "release": "v0.6.0",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-03-19T08:30:25.869Z",
+  "capturedAt": "2026-03-19T18:22:22.263Z",
   "viewports": [
     {
       "id": "desktop",
@@ -8645,14 +8645,6 @@
         {
           "mode": "window-03",
           "file": "artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-03.png"
-        },
-        {
-          "mode": "window-04",
-          "file": "artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-04.png"
-        },
-        {
-          "mode": "window-05",
-          "file": "artvandelay/auth-artvandelay-profile-custom-form-reset-default-guest-desktop-light-window-05.png"
         }
       ]
     },
