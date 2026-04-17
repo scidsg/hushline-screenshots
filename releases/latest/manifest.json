@@ -1,7 +1,7 @@
 {
   "release": "v0.6.35",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-04-17T00:22:28.499Z",
+  "capturedAt": "2026-04-17T03:24:39.873Z",
   "viewports": [
     {
       "id": "desktop",
@@ -7257,6 +7257,10 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-notifications-desktop-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-desktop-light-window-02.png"
         }
       ]
     },
@@ -7275,6 +7279,10 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-notifications-desktop-dark-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-desktop-dark-window-02.png"
         }
       ]
     },

@@ -1,6 +1,6 @@
 # Screenshot Set: v0.6.35
 
-Captured: 2026-04-17T00:22:28.499Z
+Captured: 2026-04-17T03:24:39.873Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1455,8 +1455,10 @@ Captured: 2026-04-17T00:22:28.499Z
 | Settings - Message Statuses (artvandelay) | `/settings/replies` | artvandelay | mobile | dark | window-03 | ![auth-artvandelay-settings-replies-mobile-dark-window-03](./artvandelay/auth-artvandelay-settings-replies-mobile-dark-window-03.png) |
 | Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | desktop | light | full | ![auth-artvandelay-settings-notifications-desktop-light-full](./artvandelay/auth-artvandelay-settings-notifications-desktop-light-full.png) |
 | Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | desktop | light | fold | ![auth-artvandelay-settings-notifications-desktop-light-fold](./artvandelay/auth-artvandelay-settings-notifications-desktop-light-fold.png) |
+| Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | desktop | light | window-02 | ![auth-artvandelay-settings-notifications-desktop-light-window-02](./artvandelay/auth-artvandelay-settings-notifications-desktop-light-window-02.png) |
 | Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | desktop | dark | full | ![auth-artvandelay-settings-notifications-desktop-dark-full](./artvandelay/auth-artvandelay-settings-notifications-desktop-dark-full.png) |
 | Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | desktop | dark | fold | ![auth-artvandelay-settings-notifications-desktop-dark-fold](./artvandelay/auth-artvandelay-settings-notifications-desktop-dark-fold.png) |
+| Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | desktop | dark | window-02 | ![auth-artvandelay-settings-notifications-desktop-dark-window-02](./artvandelay/auth-artvandelay-settings-notifications-desktop-dark-window-02.png) |
 | Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | mobile | light | full | ![auth-artvandelay-settings-notifications-mobile-light-full](./artvandelay/auth-artvandelay-settings-notifications-mobile-light-full.png) |
 | Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | mobile | light | fold | ![auth-artvandelay-settings-notifications-mobile-light-fold](./artvandelay/auth-artvandelay-settings-notifications-mobile-light-fold.png) |
 | Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | mobile | light | window-02 | ![auth-artvandelay-settings-notifications-mobile-light-window-02](./artvandelay/auth-artvandelay-settings-notifications-mobile-light-window-02.png) |
