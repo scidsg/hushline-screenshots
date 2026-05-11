@@ -9,9 +9,9 @@ Each release stores images by session under `releases/<version>/<session>/`.
 
 ## Latest run
 
-- Release key: `v0.6.54`
+- Release key: `v0.6.55`
 - Base URL: `http://localhost:8080`
-- Path: [releases/v0.6.54/README.md](./releases/v0.6.54/README.md)
+- Path: [releases/v0.6.55/README.md](./releases/v0.6.55/README.md)
 - Latest alias: [releases/latest/README.md](./releases/latest/README.md)
 
 ## Required accounts
@@ -24,7 +24,7 @@ Each release stores images by session under `releases/<version>/<session>/`.
 ## Regenerate
 
 ```sh
-make docs-screenshots RELEASE=v0.6.54
-make docs-screenshots-first-user RELEASE=v0.6.54
+make docs-screenshots RELEASE=v0.6.55
+make docs-screenshots-first-user RELEASE=v0.6.55
 ```
 
