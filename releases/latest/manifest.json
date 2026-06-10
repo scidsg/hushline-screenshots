@@ -1,7 +1,7 @@
 {
   "release": "v0.6.81",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-06-09T19:59:51.424Z",
+  "capturedAt": "2026-06-10T06:26:33.749Z",
   "viewports": [
     {
       "id": "desktop",
@@ -37,6 +37,90 @@
   },
   "scenes": [
     {
+      "title": "Tools - Email Validation (admin)",
+      "slug": "auth-admin-tools-email-validation",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (admin)",
+      "slug": "auth-admin-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-valid-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears inauthentic (admin)",
+      "slug": "auth-admin-tools-email-validation-status-inauthentic",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-inauthentic-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears forged (admin)",
+      "slug": "auth-admin-tools-email-validation-status-forged",
+      "path": "/email-headers",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-email-validation-status-forged-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Vision Assistant (admin)",
+      "slug": "auth-admin-tools-vision-assistant",
+      "path": "/vision",
+      "session": "admin",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "admin/auth-admin-tools-vision-assistant-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Inbox - artvandelay",
+      "slug": "auth-artvandelay-inbox",
+      "path": "/inbox",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-inbox-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
       "title": "Tools - Email Validation status: appears valid (artvandelay)",
       "slug": "auth-artvandelay-tools-email-validation-status-valid",
       "path": "/email-headers",
@@ -47,6 +131,52 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (artvandelay)",
+      "slug": "auth-artvandelay-settings-profile",
+      "path": "/settings/profile",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-light-fold.png"
+        },
+        {
+          "mode": "window-02",
+          "file": "artvandelay/auth-artvandelay-settings-profile-desktop-light-window-02.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Authentication (artvandelay)",
+      "slug": "auth-artvandelay-settings-auth",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-auth-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Enable 2FA (artvandelay)",
+      "slug": "auth-artvandelay-enable-2fa",
+      "path": "/settings/auth",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-enable-2fa-desktop-light-fold.png"
         }
       ]
     },
@@ -93,6 +223,34 @@
       ]
     },
     {
+      "title": "Inbox - newman",
+      "slug": "auth-newman-inbox",
+      "path": "/inbox",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-inbox-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 1 Profile (newman)",
+      "slug": "auth-newman-onboarding-profile",
+      "path": "/onboarding?step=profile",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-profile-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
       "title": "Onboarding - Step 1 Profile (newman)",
       "slug": "auth-newman-onboarding-profile",
       "path": "/onboarding?step=profile",
@@ -103,6 +261,76 @@
         {
           "mode": "fold",
           "file": "newman/auth-newman-onboarding-profile-mobile-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 2 Encryption (newman)",
+      "slug": "auth-newman-onboarding-encryption",
+      "path": "/onboarding?step=encryption",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-encryption-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 3 Notifications (newman)",
+      "slug": "auth-newman-onboarding-notifications",
+      "path": "/onboarding?step=notifications",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-notifications-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 4 Directory (newman)",
+      "slug": "auth-newman-onboarding-directory",
+      "path": "/onboarding?step=directory",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-directory-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Profile (newman)",
+      "slug": "auth-newman-settings-profile",
+      "path": "/settings/profile",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-profile-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Encryption (newman)",
+      "slug": "auth-newman-settings-encryption",
+      "path": "/settings/encryption",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-settings-encryption-desktop-light-fold.png"
         }
       ]
     },
@@ -121,6 +349,20 @@
       ]
     },
     {
+      "title": "Directory - Verified",
+      "slug": "guest-directory-verified",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-verified-desktop-dark-fold.png"
+        }
+      ]
+    },
+    {
       "title": "Directory - Featured Carousel",
       "slug": "guest-directory-featured-carousel",
       "path": "/directory",
@@ -131,6 +373,20 @@
         {
           "mode": "fold",
           "file": "guest/guest-directory-featured-carousel-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - admin",
+      "slug": "guest-profile-admin",
+      "path": "/to/admin",
+      "session": "guest",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-admin-desktop-light-fold.png"
         }
       ]
     },
@@ -159,6 +415,34 @@
         {
           "mode": "fold",
           "file": "guest/guest-profile-artvandelay-custom-form-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Register",
+      "slug": "guest-register",
+      "path": "/register",
+      "session": "guest",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-register-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Message Status",
+      "slug": "guest-message-status",
+      "path": "/reply/sample-reply-artvandelay",
+      "session": "guest",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-message-status-desktop-light-fold.png"
         }
       ]
     }
