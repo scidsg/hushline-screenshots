@@ -1,7 +1,7 @@
 {
   "release": "v0.7.7",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-06-20T20:28:27.502Z",
+  "capturedAt": "2026-06-20T21:42:57.388Z",
   "viewports": [
     {
       "id": "desktop",
@@ -215,6 +215,20 @@
         {
           "mode": "fold",
           "file": "guest/guest-profile-artvandelay-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - artvandelay",
+      "slug": "guest-profile-artvandelay",
+      "path": "/to/artvandelay",
+      "session": "guest",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-artvandelay-mobile-light-fold.png"
         }
       ]
     },

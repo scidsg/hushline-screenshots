@@ -1,6 +1,6 @@
 # Screenshot Set: v0.7.7
 
-Captured: 2026-06-20T20:28:27.502Z
+Captured: 2026-06-20T21:42:57.388Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -17,4 +17,5 @@ Captured: 2026-06-20T20:28:27.502Z
 | Directory - Verified | `/directory` | guest | desktop | light | fold | ![guest-directory-verified-desktop-light-fold](./guest/guest-directory-verified-desktop-light-fold.png) |
 | Directory - Featured Carousel | `/directory` | guest | desktop | light | fold | ![guest-directory-featured-carousel-desktop-light-fold](./guest/guest-directory-featured-carousel-desktop-light-fold.png) |
 | Profile - artvandelay | `/to/artvandelay` | guest | desktop | light | fold | ![guest-profile-artvandelay-desktop-light-fold](./guest/guest-profile-artvandelay-desktop-light-fold.png) |
+| Profile - artvandelay | `/to/artvandelay` | guest | mobile | light | fold | ![guest-profile-artvandelay-mobile-light-fold](./guest/guest-profile-artvandelay-mobile-light-fold.png) |
 | Profile - artvandelay custom form | `/to/artvandelay` | guest | desktop | light | fold | ![guest-profile-artvandelay-custom-form-desktop-light-fold](./guest/guest-profile-artvandelay-custom-form-desktop-light-fold.png) |
