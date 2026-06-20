@@ -1,7 +1,7 @@
 {
   "release": "v0.7.7",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-06-20T00:44:57.064Z",
+  "capturedAt": "2026-06-20T20:28:27.502Z",
   "viewports": [
     {
       "id": "desktop",
@@ -131,6 +131,34 @@
         {
           "mode": "fold",
           "file": "artvandelay/auth-artvandelay-settings-advanced-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Conversation thread - newman",
+      "slug": "auth-newman-conversation-thread",
+      "path": "/conversation/33333333-3333-4333-8333-333333333333",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-conversation-thread-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Conversation thread - newman",
+      "slug": "auth-newman-conversation-thread",
+      "path": "/conversation/33333333-3333-4333-8333-333333333333",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-conversation-thread-mobile-light-fold.png"
         }
       ]
     },

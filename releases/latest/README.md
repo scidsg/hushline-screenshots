@@ -1,6 +1,6 @@
 # Screenshot Set: v0.7.7
 
-Captured: 2026-06-20T00:44:57.064Z
+Captured: 2026-06-20T20:28:27.502Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11,6 +11,8 @@ Captured: 2026-06-20T00:44:57.064Z
 | Settings - Message Statuses (artvandelay) | `/settings/replies` | artvandelay | desktop | light | fold | ![auth-artvandelay-settings-replies-desktop-light-fold](./artvandelay/auth-artvandelay-settings-replies-desktop-light-fold.png) |
 | Settings - Notifications (artvandelay) | `/settings/notifications` | artvandelay | desktop | light | fold | ![auth-artvandelay-settings-notifications-desktop-light-fold](./artvandelay/auth-artvandelay-settings-notifications-desktop-light-fold.png) |
 | Settings - Advanced (artvandelay) | `/settings/advanced` | artvandelay | desktop | light | fold | ![auth-artvandelay-settings-advanced-desktop-light-fold](./artvandelay/auth-artvandelay-settings-advanced-desktop-light-fold.png) |
+| Conversation thread - newman | `/conversation/33333333-3333-4333-8333-333333333333` | newman | desktop | light | fold | ![auth-newman-conversation-thread-desktop-light-fold](./newman/auth-newman-conversation-thread-desktop-light-fold.png) |
+| Conversation thread - newman | `/conversation/33333333-3333-4333-8333-333333333333` | newman | mobile | light | fold | ![auth-newman-conversation-thread-mobile-light-fold](./newman/auth-newman-conversation-thread-mobile-light-fold.png) |
 | Onboarding - Step 1 Profile (newman) | `/onboarding?step=profile` | newman | mobile | light | fold | ![auth-newman-onboarding-profile-mobile-light-fold](./newman/auth-newman-onboarding-profile-mobile-light-fold.png) |
 | Directory - Verified | `/directory` | guest | desktop | light | fold | ![guest-directory-verified-desktop-light-fold](./guest/guest-directory-verified-desktop-light-fold.png) |
 | Directory - Featured Carousel | `/directory` | guest | desktop | light | fold | ![guest-directory-featured-carousel-desktop-light-fold](./guest/guest-directory-featured-carousel-desktop-light-fold.png) |
