@@ -1,7 +1,7 @@
 {
   "release": "v0.7.7",
   "baseUrl": "http://localhost:8080",
-  "capturedAt": "2026-06-20T21:42:57.388Z",
+  "capturedAt": "2026-06-21T05:46:18.875Z",
   "viewports": [
     {
       "id": "desktop",
@@ -32,7 +32,7 @@
       "username": "artvandelay"
     },
     "newman": {
-      "username": "newman"
+      "username": "not_newman"
     }
   },
   "scenes": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "title": "Conversation thread - newman",
+      "title": "Conversation thread - not_newman",
       "slug": "auth-newman-conversation-thread",
       "path": "/conversation/33333333-3333-4333-8333-333333333333",
       "session": "newman",
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "title": "Conversation thread - newman",
+      "title": "Conversation thread - not_newman",
       "slug": "auth-newman-conversation-thread",
       "path": "/conversation/33333333-3333-4333-8333-333333333333",
       "session": "newman",
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "title": "Onboarding - Step 1 Profile (newman)",
+      "title": "Onboarding - Step 1 Profile (not_newman)",
       "slug": "auth-newman-onboarding-profile",
       "path": "/onboarding?step=profile",
       "session": "newman",
