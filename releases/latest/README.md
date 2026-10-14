@@ -1,6 +1,6 @@
-# Screenshot Set: v0.7.32
+# Screenshot Set: v0.7.33
 
-Captured: 2026-10-14T00:22:29.528Z
+Captured: 2026-10-14T05:27:22.904Z
 
 | Scene | Path | Session | Viewport | Theme | Mode | File |
 | --- | --- | --- | --- | --- | --- | --- |
