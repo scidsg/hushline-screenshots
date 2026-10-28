@@ -1,0 +1,958 @@
+{
+  "release": "v0.7.35",
+  "baseUrl": "http://localhost:8080",
+  "capturedAt": "2026-10-28T15:13:57.356Z",
+  "viewports": [
+    {
+      "id": "desktop",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "mobile",
+      "width": 390,
+      "height": 844,
+      "isMobile": true,
+      "hasTouch": true,
+      "deviceScaleFactor": 3
+    }
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "sessions": {
+    "guest": {
+      "username": ""
+    },
+    "admin": {
+      "username": "admin"
+    },
+    "artvandelay": {
+      "username": "artvandelay"
+    },
+    "newman": {
+      "username": "not_newman"
+    },
+    "single-tenant-plans": {
+      "username": "docs-st-plans"
+    },
+    "single-tenant-licenses": {
+      "username": "docs-st-licenses"
+    },
+    "single-tenant-payment": {
+      "username": "docs-st-payment"
+    },
+    "single-tenant-domain": {
+      "username": "docs-st-domain"
+    },
+    "single-tenant-dns": {
+      "username": "docs-st-dns"
+    },
+    "single-tenant-provision": {
+      "username": "docs-st-provision"
+    },
+    "single-tenant-ready": {
+      "username": "docs-st-ready"
+    },
+    "single-tenant-claim": {
+      "username": "docs-st-claim"
+    },
+    "single-tenant-subscription": {
+      "username": "docs-st-subscription"
+    },
+    "single-tenant-cancelled": {
+      "username": "docs-st-cancelled"
+    },
+    "single-tenant-retiring": {
+      "username": "docs-st-retiring"
+    },
+    "single-tenant-retired": {
+      "username": "docs-st-retired"
+    }
+  },
+  "scenes": [
+    {
+      "title": "Inbox - artvandelay conversations",
+      "slug": "auth-artvandelay-inbox-conversations",
+      "path": "/inbox?type=conversations",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-inbox-conversations-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Conversation thread - artvandelay",
+      "slug": "auth-artvandelay-conversation-thread",
+      "path": "/conversation/33333333-3333-4333-8333-333333333333",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-conversation-thread-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Conversation thread - artvandelay",
+      "slug": "auth-artvandelay-conversation-thread",
+      "path": "/conversation/33333333-3333-4333-8333-333333333333",
+      "session": "artvandelay",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-conversation-thread-mobile-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Tools - Email Validation status: appears valid (artvandelay)",
+      "slug": "auth-artvandelay-tools-email-validation-status-valid",
+      "path": "/email-headers",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-tools-email-validation-status-valid-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Message Statuses (artvandelay)",
+      "slug": "auth-artvandelay-settings-replies",
+      "path": "/settings/replies",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-replies-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Notifications (artvandelay)",
+      "slug": "auth-artvandelay-settings-notifications",
+      "path": "/settings/notifications",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-notifications-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Settings - Advanced (artvandelay)",
+      "slug": "auth-artvandelay-settings-advanced",
+      "path": "/settings/advanced",
+      "session": "artvandelay",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "artvandelay/auth-artvandelay-settings-advanced-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Conversation thread - not_newman",
+      "slug": "auth-newman-conversation-thread",
+      "path": "/conversation/33333333-3333-4333-8333-333333333333",
+      "session": "newman",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-conversation-thread-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Conversation thread - not_newman",
+      "slug": "auth-newman-conversation-thread",
+      "path": "/conversation/33333333-3333-4333-8333-333333333333",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-conversation-thread-mobile-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Onboarding - Step 1 Profile (not_newman)",
+      "slug": "auth-newman-onboarding-profile",
+      "path": "/onboarding?step=profile",
+      "session": "newman",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "newman/auth-newman-onboarding-profile-mobile-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - Verified",
+      "slug": "guest-directory-verified",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-verified-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Directory - Featured Carousel",
+      "slug": "guest-directory-featured-carousel",
+      "path": "/directory",
+      "session": "guest",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-directory-featured-carousel-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - artvandelay",
+      "slug": "guest-profile-artvandelay",
+      "path": "/to/artvandelay",
+      "session": "guest",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-artvandelay-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - artvandelay",
+      "slug": "guest-profile-artvandelay",
+      "path": "/to/artvandelay",
+      "session": "guest",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-artvandelay-mobile-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Profile - artvandelay custom form",
+      "slug": "guest-profile-artvandelay-custom-form",
+      "path": "/to/artvandelay",
+      "session": "guest",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "fold",
+          "file": "guest/guest-profile-artvandelay-custom-form-desktop-light-fold.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Choose a plan",
+      "slug": "single-tenant-plans",
+      "path": "/directory",
+      "session": "single-tenant-plans",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-plans/single-tenant-plans-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Choose a plan",
+      "slug": "single-tenant-plans",
+      "path": "/directory",
+      "session": "single-tenant-plans",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-plans/single-tenant-plans-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Choose a plan",
+      "slug": "single-tenant-plans",
+      "path": "/directory",
+      "session": "single-tenant-plans",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-plans/single-tenant-plans-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Choose a plan",
+      "slug": "single-tenant-plans",
+      "path": "/directory",
+      "session": "single-tenant-plans",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-plans/single-tenant-plans-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — License selection",
+      "slug": "single-tenant-licenses",
+      "path": "/single-tenant",
+      "session": "single-tenant-licenses",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-licenses/single-tenant-licenses-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — License selection",
+      "slug": "single-tenant-licenses",
+      "path": "/single-tenant",
+      "session": "single-tenant-licenses",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-licenses/single-tenant-licenses-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — License selection",
+      "slug": "single-tenant-licenses",
+      "path": "/single-tenant",
+      "session": "single-tenant-licenses",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-licenses/single-tenant-licenses-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — License selection",
+      "slug": "single-tenant-licenses",
+      "path": "/single-tenant",
+      "session": "single-tenant-licenses",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-licenses/single-tenant-licenses-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Annual checkout",
+      "slug": "single-tenant-payment",
+      "path": "/single-tenant",
+      "session": "single-tenant-payment",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-payment/single-tenant-payment-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Annual checkout",
+      "slug": "single-tenant-payment",
+      "path": "/single-tenant",
+      "session": "single-tenant-payment",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-payment/single-tenant-payment-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Annual checkout",
+      "slug": "single-tenant-payment",
+      "path": "/single-tenant",
+      "session": "single-tenant-payment",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-payment/single-tenant-payment-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Annual checkout",
+      "slug": "single-tenant-payment",
+      "path": "/single-tenant",
+      "session": "single-tenant-payment",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-payment/single-tenant-payment-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Choose a domain",
+      "slug": "single-tenant-domain",
+      "path": "/single-tenant",
+      "session": "single-tenant-domain",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-domain/single-tenant-domain-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Choose a domain",
+      "slug": "single-tenant-domain",
+      "path": "/single-tenant",
+      "session": "single-tenant-domain",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-domain/single-tenant-domain-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Choose a domain",
+      "slug": "single-tenant-domain",
+      "path": "/single-tenant",
+      "session": "single-tenant-domain",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-domain/single-tenant-domain-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Choose a domain",
+      "slug": "single-tenant-domain",
+      "path": "/single-tenant",
+      "session": "single-tenant-domain",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-domain/single-tenant-domain-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — DNS records",
+      "slug": "single-tenant-dns",
+      "path": "/single-tenant",
+      "session": "single-tenant-dns",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-dns/single-tenant-dns-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — DNS records",
+      "slug": "single-tenant-dns",
+      "path": "/single-tenant",
+      "session": "single-tenant-dns",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-dns/single-tenant-dns-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — DNS records",
+      "slug": "single-tenant-dns",
+      "path": "/single-tenant",
+      "session": "single-tenant-dns",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-dns/single-tenant-dns-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — DNS records",
+      "slug": "single-tenant-dns",
+      "path": "/single-tenant",
+      "session": "single-tenant-dns",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-dns/single-tenant-dns-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Deployment checks",
+      "slug": "single-tenant-provision",
+      "path": "/single-tenant",
+      "session": "single-tenant-provision",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-provision/single-tenant-provision-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Deployment checks",
+      "slug": "single-tenant-provision",
+      "path": "/single-tenant",
+      "session": "single-tenant-provision",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-provision/single-tenant-provision-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Deployment checks",
+      "slug": "single-tenant-provision",
+      "path": "/single-tenant",
+      "session": "single-tenant-provision",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-provision/single-tenant-provision-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Deployment checks",
+      "slug": "single-tenant-provision",
+      "path": "/single-tenant",
+      "session": "single-tenant-provision",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-provision/single-tenant-provision-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Instance ready",
+      "slug": "single-tenant-ready",
+      "path": "/single-tenant",
+      "session": "single-tenant-ready",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-ready/single-tenant-ready-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Instance ready",
+      "slug": "single-tenant-ready",
+      "path": "/single-tenant",
+      "session": "single-tenant-ready",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-ready/single-tenant-ready-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Instance ready",
+      "slug": "single-tenant-ready",
+      "path": "/single-tenant",
+      "session": "single-tenant-ready",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-ready/single-tenant-ready-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Instance ready",
+      "slug": "single-tenant-ready",
+      "path": "/single-tenant",
+      "session": "single-tenant-ready",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-ready/single-tenant-ready-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Claim administrator",
+      "slug": "single-tenant-claim",
+      "path": "/single-tenant/claim",
+      "session": "single-tenant-claim",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-claim/single-tenant-claim-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Claim administrator",
+      "slug": "single-tenant-claim",
+      "path": "/single-tenant/claim",
+      "session": "single-tenant-claim",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-claim/single-tenant-claim-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Claim administrator",
+      "slug": "single-tenant-claim",
+      "path": "/single-tenant/claim",
+      "session": "single-tenant-claim",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-claim/single-tenant-claim-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Claim administrator",
+      "slug": "single-tenant-claim",
+      "path": "/single-tenant/claim",
+      "session": "single-tenant-claim",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-claim/single-tenant-claim-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Subscription management",
+      "slug": "single-tenant-subscription",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-subscription",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-subscription/single-tenant-subscription-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Subscription management",
+      "slug": "single-tenant-subscription",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-subscription",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-subscription/single-tenant-subscription-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Subscription management",
+      "slug": "single-tenant-subscription",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-subscription",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-subscription/single-tenant-subscription-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Subscription management",
+      "slug": "single-tenant-subscription",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-subscription",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-subscription/single-tenant-subscription-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Renewal cancelled",
+      "slug": "single-tenant-cancelled",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-cancelled",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-cancelled/single-tenant-cancelled-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Renewal cancelled",
+      "slug": "single-tenant-cancelled",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-cancelled",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-cancelled/single-tenant-cancelled-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Renewal cancelled",
+      "slug": "single-tenant-cancelled",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-cancelled",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-cancelled/single-tenant-cancelled-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Renewal cancelled",
+      "slug": "single-tenant-cancelled",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-cancelled",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-cancelled/single-tenant-cancelled-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Deletion in progress",
+      "slug": "single-tenant-retiring",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-retiring",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-retiring/single-tenant-retiring-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Deletion in progress",
+      "slug": "single-tenant-retiring",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-retiring",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-retiring/single-tenant-retiring-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Deletion in progress",
+      "slug": "single-tenant-retiring",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-retiring",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-retiring/single-tenant-retiring-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Deletion in progress",
+      "slug": "single-tenant-retiring",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-retiring",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-retiring/single-tenant-retiring-mobile-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Instance deleted",
+      "slug": "single-tenant-retired",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-retired",
+      "viewport": "desktop",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-retired/single-tenant-retired-desktop-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Instance deleted",
+      "slug": "single-tenant-retired",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-retired",
+      "viewport": "desktop",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-retired/single-tenant-retired-desktop-dark-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Instance deleted",
+      "slug": "single-tenant-retired",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-retired",
+      "viewport": "mobile",
+      "theme": "light",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-retired/single-tenant-retired-mobile-light-full.png"
+        }
+      ]
+    },
+    {
+      "title": "Single Tenant — Instance deleted",
+      "slug": "single-tenant-retired",
+      "path": "/single-tenant/manage",
+      "session": "single-tenant-retired",
+      "viewport": "mobile",
+      "theme": "dark",
+      "files": [
+        {
+          "mode": "full",
+          "file": "single-tenant-retired/single-tenant-retired-mobile-dark-full.png"
+        }
+      ]
+    }
+  ]
+}
